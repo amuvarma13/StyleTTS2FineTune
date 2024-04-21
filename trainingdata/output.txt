@@ -1,0 +1,209 @@
+audio_0.wav|All right, so this is the Humane AI Pin.|1
+audio_1.wav|It is a brand new product and a really, really interesting form factor of an ultra futuristic wearable computer.|1
+audio_2.wav|So in a time of all these crazy gadgets and Vision Pro and wearable glasses, it's so sick that we get so many genuinely new first generation products like this to give a shot.|1
+audio_4.wav|The new worst product I think I've ever reviewed is in its current state.|1
+audio_5.wav|There's just so many things bad about it.|1
+audio_6.wav|It's so bad in fact that I think it's actually kind of distracting to like understand what the point of the device is as we go through it.|1
+audio_7.wav|So I'm gonna have to separate it out for this video.|1
+audio_8.wav|First, I'm gonna tell you what it is and what it's supposed to do.|1
+audio_9.wav|And then I'll tell you what my experience has actually been using it.|1
+audio_10.wav|So this thing is a small wearable computer with an AI inside that can help you throughout your day.|1
+audio_11.wav|It's about the size of a large watch.|1
+audio_12.wav|It has a camera and a microphone and can interact with the world around you.|1
+audio_13.wav|But in case you can't use that as input, there's also a touch pad and a projector inside with this super new style of gesture control with the projection on your hand.|1
+audio_15.wav|plus a $24 a month subscription plan for the data that comes with it and all the services and all the online storage.|1
+audio_18.wav|But so one of the big things off the top is this does not pair to your smartphone at all.|1
+audio_19.wav|This is its own standalone device with its own internet connection, with its own phone number.|1
+audio_20.wav|And so this little AI assistant just goes everywhere with you.|1
+audio_22.wav|And that's, you can choose how much or how little to use it alongside your smartphone.|1
+audio_24.wav|kind of a cool idea at least.|1
+audio_25.wav|Like the idea is you talk to it like a person.|1
+audio_26.wav|It answers questions, it gives you historical facts or personalized recommendations or helps you out with things like brainstorming or remembering things.|1
+audio_27.wav|It can make phone calls and send text messages, a ton of stuff.|1
+audio_28.wav|The unfortunate reality though is this thing is too much of a pain to use to actually want to do most of that stuff alongside your phone, but we'll get there.|1
+audio_30.wav|This little thing, the build of this thing is actually impressive.|1
+audio_31.wav|Like genuinely, I think if you're looking for a reason to feel like you're not getting ripped off, the hardware packaging actually kind of accomplishes that.|1
+audio_32.wav|Like this pin is solid, it's aluminum, it's dense feeling.|1
+audio_34.wav|There's all matte black, which is the cheapest one.|1
+audio_35.wav|Or for a hundred bucks more, you can get white or this black and silver one that I'm using.|1
+audio_36.wav|And then there's a lot of sensors packed up there.|1
+audio_37.wav|There's a camera, there's microphones, there's lights, there's a tiny class two laser projector.|1
+audio_38.wav|So this whole thing is like really densely packed.|1
+audio_39.wav|And then the magnets also that connect everything are super strong.|1
+audio_40.wav|So the back of this pin is called a booster.|1
+audio_42.wav|So it's got its own internal battery, but then once you attach it to your clothes,|1
+audio_43.wav|It cleverly, through your clothes, magnetizes there, makes a nice sound when you do, and that's how you get it attached.|1
+audio_45.wav|And since there's the internal battery, you can literally hot swap between them so the thing stays alive.|1
+audio_47.wav|And then it also comes with this extremely well-made and also very, very reflective charging case.|1
+audio_48.wav|So you can pop it in there or just your battery in there, keep it topped off.|1
+audio_51.wav|And it also comes with this like desktop charging puck where you can magnetize in the battery or the whole thing, the pen and the booster at the same time.|1
+audio_52.wav|So that is a lot of charging and battery related accessories, but they all come with it.|1
+audio_53.wav|And this pen, you know, it's also got these lights up at the top here that light up anytime you're doing anything.|1
+audio_54.wav|And there's also a small pin light notification for when there's something waiting for you.|1
+audio_55.wav|So between the weight of the parts and the strength of the magnets, how it all slaps together, like you can tell that a lot of effort was put into the craftsmanship|1
+audio_56.wav|of this product, which I very much appreciate.|1
+audio_58.wav|Buy a lot.|1
+audio_59.wav|Okay, I want you to forget about the smartphone in your pocket for a second.|1
+audio_60.wav|Just for a minute, just pretend that doesn't exist, ignore it, right?|1
+audio_61.wav|This little pin can do a lot of stuff and is very helpful.|1
+audio_62.wav|So again, think of this thing as an AI assistant that's like by your side all the time with you.|1
+audio_64.wav|It doesn't have a wake word, it only turns the mic on and listens when you touch it.|1
+audio_65.wav|So you can go, how tall is the Empire State Building?|1
+audio_66.wav|And then when you let go, it starts sending that query off to the crowd.|1
+audio_67.wav|The Empire State Building is 1,454 feet tall to the tip.|1
+audio_68.wav|cloud and then gets you an answer, which is great.|1
+audio_70.wav|So that means it can look at the camera and see things and interact with the world around you.|1
+audio_71.wav|So look and tell me what you see.|1
+audio_72.wav|So it'll scan the room, use the cloud again.|1
+audio_73.wav|That little noise was it taking a little image, sending that image to the cloud, analyzing it, getting it back, then deciding what to tell me.|1
+audio_74.wav|You are sitting in front of a camera and a laptop.|1
+audio_75.wav|The camera is on a tripod and pointed at you.|1
+audio_76.wav|The laptop is open and you are looking at it.|1
+audio_77.wav|There are three pictures of dogs on the wall behind you.|1
+audio_78.wav|There is a window to the left of the camera.|1
+audio_79.wav|There is a boom mic on the table in front of you.|1
+audio_80.wav|There is a red carpet on the floor.|1
+audio_82.wav|The camera can also take pictures or up to 15 second videos, which it auto uploads while charging.|1
+audio_83.wav|It can also remember things you tell it to remember.|1
+audio_84.wav|And all of these things will show up in the Humane Center.|1
+audio_85.wav|So it's like this online web portal for all things connected to the pin.|1
+audio_88.wav|So there you can see a whole history of who you've called and texted, and what you've listened to, and what answers it gave to your most recent requests, and all the things you told it to remember.|1
+audio_90.wav|I think probably its best tech demo feature, though, is the translate back and forth.|1
+audio_92.wav|You can go, donde esta la biblioteca?|1
+audio_94.wav|So it auto-detects the language, translates it to English, and the person who speaks back can translate back, as long as you hold down the pin and listen to them.|1
+audio_97.wav|So if at any point you're in a loud area or a very private area and you don't want to interact out loud with your voice, that's where this projector comes in.|1
+audio_98.wav|So it seems crazy, but you activate it like that and then you just hold your finger out, your whole palm,|1
+audio_99.wav|And it becomes a projector screen for the laser projector built into the pen.|1
+audio_100.wav|So it takes a little practice, but eventually you get used to holding your hand up in just the right spot.|1
+audio_101.wav|And then the UI gets projected in this green 720p mini screen on your hand.|1
+audio_102.wav|So you basically use your hand, try to be as flat as possible, and then to interact with it, there are some movement gestures.|1
+audio_103.wav|So there's a time of flight sensor that keeps track of movement, and you move your hand around kind of like rolling a marble around in your hand to select something, then pinch to select.|1
+audio_104.wav|You can then make a fist to go back, and then you literally push forward to move deeper into a menu.|1
+audio_105.wav|So this is like a 3D UI you have to learn.|1
+audio_106.wav|This is obviously very brand new for people, but I think to be fair, it is pretty|1
+audio_108.wav|I think if you get a quick 60 second lesson you kind of already have learned all the things you need.|1
+audio_109.wav|When you first connect the booster to the pin you can unlock it and unlocking it with my pin is like this move your hand through space to select the numbers thing.|1
+audio_110.wav|It's literally like moving back and forth through a rolodex of real numbers.|1
+audio_112.wav|So unfortunately this thing is bad at almost everything it does basically all the time.|1
+audio_114.wav|So I guess, first of all, okay, it's supposed to just answer questions, right?|1
+audio_115.wav|It can kind of do that sometimes, but one, it's often slow because most of these requests go to the cloud and come back and there's just a long wait.|1
+audio_116.wav|And two, it's often wrong because AI still can hallucinate and there are still issues with it just not understanding correctly or just saying the wrong thing.|1
+audio_117.wav|And that's not even mentioning server timeouts, if you have a poor internet connection, which happens to me all the time in this studio.|1
+audio_118.wav|So when they do most of the demos, like on their websites and in their videos, they'll ask a question and then they'll let go and keep talking to fill the silence.|1
+audio_119.wav|So it's not awkward as you wait for an answer and realize how long it is.|1
+audio_120.wav|But even on this fast studio wifi here, who designed the Washington Monument?|1
+audio_122.wav|The Washington Monument was designed by Robert Mills.|1
+audio_123.wav|a prominent 19th century American architect from South Carolina.|1
+audio_124.wav|The construction was eventually completed by Thomas.|1
+audio_125.wav|So you can just hold your hand up to put your answer on your hand and interrupt that it's talking so much.|1
+audio_126.wav|But even that was like a pretty good performance for the AI pin in ideal fast wifi conditions.|1
+audio_127.wav|But there are many, many times when I feel like it's way slower and it seems like it goes to the internet for almost everything.|1
+audio_129.wav|Queries I guess might be local like what time is it?|1
+audio_131.wav|If I ask the battery life, it can tell me that pretty fast, but it feels like basically everything else is just shoveling it off to the cloud, not competing on the device, and it takes a while.|1
+audio_132.wav|But it's also just wrong all the time.|1
+audio_133.wav|Like, I remember asking it days before the solar eclipse when the next eclipse was, and it said 2044.|1
+audio_134.wav|I asked it, what's some good Asian food in the area?|1
+audio_135.wav|And over and over again, it thought I said, what's the best ash for some reason?|1
+audio_138.wav|The next Brooklyn Nets game is on Sunday, April 14th, but no specific opponent or location is provided.|1
+audio_140.wav|It says it's the 76ers, so that's kind of weird.|1
+audio_141.wav|What's the traffic to the Empire State Building from here?|1
+audio_143.wav|Use the voice command feature of AI pin to ask for traffic information to the Empire State Building, and it will provide you with the details you need.|1
+audio_145.wav|This stuff happens all the time.|1
+audio_147.wav|Really bad and inconsistent, which is annoying.|1
+audio_148.wav|So it's already kind of bad enough that you have another device that you also have to charge every single day.|1
+audio_149.wav|But with this, it's actually more than that.|1
+audio_150.wav|You have to constantly babysit the battery and swap out boosters and charge this thing and keep it charged multiple times per day.|1
+audio_151.wav|So like I said before, you get two of these things that come with it.|1
+audio_153.wav|just all the time, which is a little bit concerning.|1
+audio_154.wav|I'll also say multiple times in various situations, I've had it just overheat for seemingly no reason and tell me to wait a while for it to cool down.|1
+audio_155.wav|I think the heat problem is also amplified because of the gap created by whatever fabric is between the booster and the product that it is actively inductively charging.|1
+audio_156.wav|You know, it is a lot of very impressive engineering, but wireless charging is notoriously inefficient and loses energy via heat.|1
+audio_160.wav|Yeah, it's just a little too heavy.|1
+audio_161.wav|I feel like Humane in a lot of their videos, they've got all these thick fabrics and like heavy jackets, so it doesn't really pull down and sag nearly as much.|1
+audio_162.wav|But if you wear some lighter weight materials like I do, especially when it gets warm outside, this is really going to start to be noticed.|1
+audio_163.wav|And yes, there are some optional accessories that are lighter weight, but you never quite forget about it.|1
+audio_164.wav|This pin cannot set a timer.|1
+audio_165.wav|this pin cannot set an alarm.|1
+audio_166.wav|This notification light they put up at the corner here, it's there and it works, but it is basically out of my peripheral, my field of view, so I almost never see it.|1
+audio_167.wav|And they also chose this corner for the light, which means it's designed to be worn on this half of the body, which is fine and you get used to it there, but that's also exactly where most seat belts go in the US anyway.|1
+audio_168.wav|So not their fault, just another annoying thing about using it.|1
+audio_169.wav|The photos look pretty bad and the videos look even worse.|1
+audio_170.wav|They're squarish in aspect ratio, very noisy, and they max out at 15 seconds.|1
+audio_171.wav|The hub that everything syncs with, for me, just randomly stops working and I have to refresh it to get it to work again.|1
+audio_172.wav|The projector, as impressive as a technical achievement as it is, it's just not very readable.|1
+audio_173.wav|It's not particularly bright outdoors, and it gets dimmer the further from your hand it is because of physics.|1
+audio_174.wav|And unless I knew what those words were saying, I really can't read very much.|1
+audio_177.wav|Access there is no Spotify access.|1
+audio_180.wav|No gmail none of that stuff It's just it doesn't have I can't book a flight.|1
+audio_181.wav|I can't buy something on Amazon It just will not do any of that stuff that I just do on my phone|1
+audio_183.wav|smartphones are not going anywhere anytime soon.|1
+audio_185.wav|that this pin does, a modern smartphone does better and faster and easier and in higher quality and just better in every way.|1
+audio_186.wav|Like your smartphone obviously takes better pictures and videos and you can frame things more easily.|1
+audio_187.wav|Of course a phone can call and text people more easily.|1
+audio_188.wav|You can use it in more places, loud places, private places, use it with literally any outfit.|1
+audio_189.wav|Also a phone like you can quickly Google things, it's faster to message people back, and of course it can email people and use all kinds of app experiences.|1
+audio_190.wav|Do you know what happens when you try to just send someone a picture from the AI pin?|1
+audio_192.wav|With the AI pin, okay, you take the picture, then you either try this with your voice or you pull up the picture, which is just a green 720p JPEG on your hand,|1
+audio_193.wav|I guess that's a good enough preview, sure.|1
+audio_194.wav|You go to send it, you pick your contact or type in the whole phone number with the gestures.|1
+audio_195.wav|Eventually you go to send and it has its own internet connection and it sends a link|1
+audio_196.wav|to view the picture in the Humane web portal.|1
+audio_197.wav|Like, the difference in how easy, how frictionless that is here versus here, it's not even close.|1
+audio_198.wav|And there are honestly many times where I'd be trusting this pin.|1
+audio_200.wav|It's just, phones are OP.|1
+audio_206.wav|Also, I got to say, when I say phones are OP, like screens in your hand, so sick.|1
+audio_207.wav|Just for the last like 10% of any UI, like you can get almost all the way there with just your voice interaction.|1
+audio_208.wav|But let's say you call an Uber and you say, take me to the studio from an Uber, even if it could do that, which it can't, but let's say it could.|1
+audio_209.wav|And as you're waiting, you're like, I'm gonna just go grab a snack from this Starbucks on the corner.|1
+audio_210.wav|How do you adjust your pickup location with this?|1
+audio_211.wav|Just that friction of I could just do it in two seconds on my phone.|1
+audio_213.wav|I've seen a lot of demos where someone's like, plan me a trip to Europe, plan me an expedition.|1
+audio_214.wav|I don't even wanna buy detergent online on this because I need to check all the ratings and the titles and make sure I'm ordering the right one.|1
+audio_215.wav|I do not trust that with just my voice.|1
+audio_216.wav|But I think most critically for the AI assistant part, I actually love the idea of a virtual assistant that you can talk to like a human.|1
+audio_217.wav|Like this is something we've been chasing for years with Google Assistant and Siri and Alexa.|1
+audio_218.wav|And now with this new form factor of, you know, a little AI in a box that can be with you everywhere.|1
+audio_219.wav|Maybe that can deliver even better on that specific promise.|1
+audio_220.wav|But the thing about a good assistant is it needs to know everything about you.|1
+audio_221.wav|That's even true with a human assistant.|1
+audio_222.wav|Like, it needs to know your schedule, it needs to know where you go every day, it needs to know who you talk to, who your preferences are personally and for products.|1
+audio_225.wav|already knows a lot of things about you.|1
+audio_226.wav|But this is a standalone device that doesn't talk to your phone, and so it doesn't know any of the things about you that your phone knows.|1
+audio_227.wav|So just from that, it's already at such a massive disadvantage for the smartphone for being helpful.|1
+audio_229.wav|Fully immerse yourself for several days straight and tell it to remember everything and call people, text people from it.|1
+audio_230.wav|But it's still, it will always have that gap.|1
+audio_231.wav|And that's not even mentioning this, like I said, it has its own phone number.|1
+audio_233.wav|So if you're texting here, this is not the same thread.|1
+audio_235.wav|So I guess that begs the question, why didn't they just make this connect to your phone?|1
+audio_237.wav|That's the question that I think a lot of people are wondering.|1
+audio_238.wav|And I think, this is my theory, but I think Humane wants this thing to eventually be a very powerful standalone device someday.|1
+audio_239.wav|And in order to get it to that future, they can't set the precedent now of connecting it to your phone, because then that means they have to remove that feature in the future, and they don't want to do that.|1
+audio_240.wav|So this device, as it exists today, is hamstrung by its ideal future version of itself.|1
+audio_243.wav|It doesn't actually pair to your iPhone in any way.|1
+audio_245.wav|And of course, Apple sees down the road that could just be like a little pair of smart glasses.|1
+audio_247.wav|But now, today, this thing is a victim of its future ambition.|1
+audio_248.wav|It was really hard to come up with a title for this video, but I will say at one point, my working title for this was|1
+audio_250.wav|I would use it and it would do exactly what it's supposed to do quickly and I'd get it.|1
+audio_251.wav|And I'd really feel like that's how it's supposed to feel.|1
+audio_252.wav|And then I'd do another request and it would remind me of reality.|1
+audio_254.wav|I've said a thousand times, like my best ideas, golden rule, they always show up when I can't write them down.|1
+audio_255.wav|Like when I'm about to fall asleep or I'm in the shower or driving, right?|1
+audio_256.wav|So I'm using the pen, I'm driving to the studio and I have an idea.|1
+audio_260.wav|So when I arrive at the studio, that thing that I told it to remember is sitting there waiting for me.|1
+audio_262.wav|Or the other thing, the unique first-person videos.|1
+audio_263.wav|I could put it in the center of my chest and take videos.|1
+audio_264.wav|I would never want to distract myself while driving, taking a video.|1
+audio_265.wav|But you know, even though the quality is not great, that's the most frictionless version of that along with smart glasses.|1
+audio_267.wav|And I think number one on top of all of this is if you ask me like, who should buy this device right now?|1
+audio_270.wav|I don't wanna doom scroll the second I pull my phone out of my pocket.|1
+audio_272.wav|But yeah, that's the issue with it.|1
+audio_273.wav|I literally had a moment, like we did a shoot in Ohio the other day, which was like a travel day, and I woke up in the morning and I thought like, I don't wanna deal with this pin today.|1
+audio_276.wav|and you should probably skip this product too.|1
+audio_277.wav|And never buy a product based on the future promise of updates to it.|1
+audio_278.wav|Obviously, this is a product that has a long way to go and there's a team behind it.|1
+audio_279.wav|And look, I gotta say, as a brand new product and a team trying to make something new, that I respect.|1
+audio_280.wav|I respect the attempt because we don't get a lot of totally new stuff.|1
+audio_281.wav|But yeah, this is a long way to go.|1
+audio_282.wav|They do have a roadmap, actually, I'll say.|1
+audio_284.wav|There's some decent stuff on there, including number sharing, but that also has no date and no other information.|1
+audio_285.wav|So I'll just say, good luck.|1
