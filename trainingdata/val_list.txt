@@ -1,21 +1,355 @@
-audio_254.wav|aɪv sɛd ɐ θaʊzənd taɪmz laɪk maɪ bɛst aɪdiəz ɡoʊldən ɹuːl ðeɪ ɔːlweɪz ʃoʊ ʌp wɛn aɪ kænt ɹaɪt ðɛm daʊn |1
-audio_255.wav|laɪk wɛn aɪm ɐbaʊt tə fɔːl ɐsliːp ɔːɹ aɪm ɪnðə ʃaʊɚ ɔːɹ dɹaɪvɪŋ ɹaɪt |1
-audio_256.wav|soʊ aɪm juːzɪŋ ðə pɛn aɪm dɹaɪvɪŋ tə ðə stuːdɪoʊ ænd aɪ hæv ɐn aɪdiə |1
-audio_260.wav|soʊ wɛn aɪ ɚɹaɪv æt ðə stuːdɪoʊ ðæt θɪŋ ðæt aɪ toʊld ɪt tə ɹᵻmɛmbɚɹ ɪz sɪɾɪŋ ðɛɹ weɪɾɪŋ fɔːɹ miː |1
-audio_262.wav|ɔːɹ ðɪ ʌðɚ θɪŋ ðə juːniːk fɜːstpɜːsən vɪdɪoʊz |1
-audio_263.wav|aɪ kʊd pʊt ɪɾ ɪnðə sɛntɚɹ ʌv maɪ tʃɛst ænd teɪk vɪdɪoʊz |1
-audio_264.wav|aɪ wʊd nɛvɚ wɔnt tə dɪstɹækt maɪsɛlf waɪl dɹaɪvɪŋ teɪkɪŋ ɐ vɪdɪoʊ |1
-audio_265.wav|bʌt juː noʊ iːvən ðoʊ ðə kwɔlᵻɾi ɪz nɑːt ɡɹeɪt ðæts ðə moʊst fɹɪkʃənləs vɜːʒən ʌv ðæt ɐlɔŋ wɪð smɑːɹt ɡlæsᵻz |1
-audio_267.wav|ænd aɪ θɪŋk nʌmbɚ wʌn ɔn tɑːp ʌv ɔːl ʌv ðɪs ɪz ɪf juː æsk miː laɪk huː ʃʊd baɪ ðɪs dɪvaɪs ɹaɪt naʊ |1
-audio_270.wav|aɪ doʊnt wɔnə duːm skɹoʊl ðə sɛkənd aɪ pʊl maɪ foʊn aʊɾəv maɪ pɑːkɪt |1
-audio_272.wav|bʌt jɛh ðæts ðɪ ɪʃuː wɪð ɪt |1
-audio_273.wav|aɪ lɪɾɚɹəli hæd ɐ moʊmənt laɪk wiː dɪd ɐ ʃuːt ɪn oʊhaɪoʊ ðɪ ʌðɚ deɪ wɪtʃ wʌz laɪk ɐ tɹævəl deɪ ænd aɪ woʊk ʌp ɪnðə mɔːɹnɪŋ ænd aɪ θɔːt laɪk aɪ doʊnt wɔnə diːl wɪð ðɪs pɪn tədeɪ |1
-audio_276.wav|ænd juː ʃʊd pɹɑːbəbli skɪp ðɪs pɹɑːdʌkt tuː |1
-audio_277.wav|ænd nɛvɚ baɪ ɐ pɹɑːdʌkt beɪst ɔnðə fjuːtʃɚ pɹɑːmɪs ʌv ʌpdeɪts tʊ ɪt |1
-audio_278.wav|ɑːbviəsli ðɪs ɪz ɐ pɹɑːdʌkt ðæt hɐz ɐ lɔŋ weɪ tə ɡoʊ ænd ðɛɹz ɐ tiːm bᵻhaɪnd ɪt |1
-audio_279.wav|ænd lʊk aɪ ɡɑːɾə seɪ æz ɐ bɹænd nuː pɹɑːdʌkt ænd ɐ tiːm tɹaɪɪŋ tə meɪk sʌmθɪŋ nuː ðæt aɪ ɹᵻspɛkt |1
-audio_280.wav|aɪ ɹᵻspɛkt ðɪ ɐtɛmpt bɪkʌz wiː doʊnt ɡɛt ɐ lɑːt ʌv toʊɾəli nuː stʌf |1
-audio_281.wav|bʌt jɛh ðɪs ɪz ɐ lɔŋ weɪ tə ɡoʊ |1
-audio_282.wav|ðeɪ duː hæv ɐ ɹoʊdmæp æktʃuːəli aɪl seɪ |1
-audio_284.wav|ðɛɹz sʌm diːsənt stʌf ɔn ðɛɹ ɪŋkluːdɪŋ nʌmbɚ ʃɛɹɪŋ bʌt ðæt ɔːlsoʊ hɐz noʊ deɪt ænd noʊ ʌðɚɹ ɪnfɚmeɪʃən |1
-audio_285.wav|soʊ aɪl dʒʌst seɪ ɡʊd lʌk |1
+38_34.wav|soʊ juː kæn ʌv koːɹs ɡoʊ θɹuː ænd ɛdɪt ɐ kiːnoʊt dʒʌst laɪk noːɹməl ɪf juː wɔnt tuː |1
+100_34.wav|ðɛɹwɜː sʌm ɛldʒiː foʊnz ðæt dɪd ðɪs sʌm soʊni foʊnz aɪ wɔnt tə seɪ sʌm eɪsəs foʊnz |1
+35_34.wav|juː hæv tə lʊk ɛɡzæktli wɛɹ jʊɹ tɹaɪɪŋ tʊ ɪntɚɹækt wɪð θɪŋz |1
+16_34.wav|ɪt wʌz lɪɾɚɹəli ɹᵻkɔːld wɜːldwaɪd |1
+49_34.wav|ænd ɪts stɪl ɑːnɪstli pɹɪɾi wɛl bælənst iːvən wɪð ðɪs kæmɹə bʌmp ðæt wiːl tɔːk ɐbaʊt ɪn ɐ mɪnɪt |1
+23_34.wav|ʌv koːɹs ðə haɪɪst ɛnd ʌltɹə foʊnz kwɪkli blæstᵻd ðə siːlɪŋ weɪ ʌp ɔːl ðə weɪ tə wʌnhʌndɹɪd mɛɡəpɪksəlz ænd ðɛn tuːhʌndɹɪd ðɪs jɪɹ wɪtʃ ɪz nʌts |1
+21_34.wav|ænd soʊ wɪð ðiːz boːɹɪŋ dᵻfɔlt beɪs foʊnz fɔːɹ sɛvənhʌndɹɪd fɪfti bʌks flæt toʊɾəli faɪn |1
+53_34.wav|soʊ fɔːɹ ðɪs ɹɛɡjʊlɚ deɪlaɪt foʊɾoʊ sɪtʃuːeɪʃən ðə wɪnɚ wɪððə haɪɪst iːɛloʊ ɹeɪɾɪŋ ɪz ðə pɪksəl sɛvən eɪ |1
+34_34.wav|soʊ ðə fɜːst taɪm juː pʊt ɔn ðɪs hɛdsɛt ɪt ɡoʊz θɹuː ðɪs kælɪbɹeɪʃən pɹɑːsɛs |1
+61_34.wav|soʊ ɪf juː wɔnt tə tʃɛk ɪɾ aʊt fiːl fɹiː tə tʃɛk aʊt ðə lɪŋk ɪnðə dᵻskɹɪpʃən ænd juːs koʊd ɛmkeɪsiː |1
+83_34.wav|pɹɑːbəbli ɡənə biː ɐ kənsɜːn fɔːɹ sʌm fətɑːɡɹəfɚz |1
+79_34.wav|tuː æpəlz vɪʒən pɹoʊ ɪz stɪl ɔn tɹæk təbi ɹᵻliːst ɜːli |1
+63_34.wav|ænd soʊ ðæts ɔːl wʌt ɡɪvz ɪt ðɪs æntaɪɹᵻflɛktɪv lʊk |1
+43_34.wav|ænd ðeɪ ʃoʊ ʌp æt ðə kɚɹɛkt æŋɡəl təwɔːɹdz ðə pɜːsən ðæt jʊɹ dʒɛstʃɚɹɪŋ æt |1
+136_34.wav|ðə kwɔlᵻɾi ɪz ɡʊd ɪnʌf ænd ɑːbviəsli ɪts nɑːt ɡoʊɪŋ təbi æz ɪmɜːsɪv æz |1
+46_34.wav|soʊ naʊ ɪt dʌz mʌtʃ ɪmpɹuːvd spiːkɚ leɪbəlz ænd tɹænskɹɪpʃənz ænd ɪt kæn æktʃuːəli sʌmɚɹaɪz jʊɹ vɔɪs ɹᵻkoːɹdɪŋ æftɚ juː ɹᵻkoːɹd ɪntʊ ɐ bʌntʃ ʌv bʊlɪt pɔɪnts |1
+105_34.wav|bʌt ɪf juː daɪv ɪntʊ ðə sɛɾɪŋz ðɛɹz æktʃuːəli ɐ sɛkʃən fɔːɹ ðɪs ækʃən bʌʔn̩ |1
+29_34.wav|ɪt dʒʌst ɪt fɔːlz ɐpɑːɹt ɐ lɪɾəl tuː kwɪkli æz suːn æz ðɛɹz ædvɜːs kəndɪʃənz ɪspɛʃəli loʊ laɪt |1
+119_34.wav|ɪn ɔːɹ aʊɾəv fɪftiːn faɪv kɪləwɑːts |1
+91_34.wav|aɪ ɪmædʒɪn ðɛɹz sʌm moːɹ ʌpdeɪts kʌmɪŋ tə boʊθ aɪ oʊɛs ænd ɐ bʌntʃ ʌv æps |1
+70_34.wav|ænd aɪ θɪŋk wɪɹ æktʃuːəli ɡənə sloʊli stɑːɹt siːɪŋ iːvən moːɹ æps ɔnðə mæk teɪk ɐdvæntɪdʒ ʌv ðɪs stʌf æz taɪm ɡoʊz ɔn |1
+33_34.wav|ænd ðɛn meɪbiː ðə kɹeɪziɪst pɑːɹt ɪnsaɪd ðə hɛdsɛt ðɛɹɑːɹ ɐ bʌntʃ moːɹ sɛnsɚz feɪsɪŋ jʊɹ aɪz tɹækɪŋ jʊɹ aɪz ɪn ɹiːəl taɪm fɔːɹ ɔːl ðɪ aɪ kəntɹoʊl ænd ɛvɹɪθɪŋ ðæt kʌmz wɪð ðæt |1
+31_34.wav|bʌt ɪnðə wɜːld ʌvðə flæɡʃɪps ðə pɪksəlz ðə sæmsʌŋz ʌvðə wɜːld iːvən ðɪ aɪ foʊnz ɡɪvɪŋ juː sɪks ɔːɹ sɛvən jɪɹz ʌv sɔftwɛɹ ʌpdeɪts ðɪs ɪz dʒʌst noʊɾəbli bᵻhaɪnd ɔn ðæt |1
+74_34.wav|ɪt dʌzənt miːn ɪts ɡoʊɪŋ təbi bæd fɔːɹ ɛvɹɪwʌn bʌt ðæts nɑːt ɡɹeɪt |1
+3_34.wav|soʊ ɛvɹi taɪm ðeɪ kʌm aʊt wɪð ɐ nuː pɹɑːdʌkt ɔːɹ ɐ ɹeɪndʒ ʌv pɹɑːdʌkts ðeɪ hæv tə duː ðə səplaɪ tʃeɪn θɪŋ ænd fɪɡjɚɹ aʊt ɛɡzæktli haʊ mɛni ðeɪ niːd tə pɹəduːs |1
+124_34.wav|ænd ðɛɹz iːvən ɐ stoːɹm wɑːtʃ fiːtʃɚ ðæt wɪl pɹiːɛmptɪvli meɪk ʃʊɹ ðə paʊɚ wɔːlz ɑːɹ fʊl ɪf ɪt noʊz ɐ bɪɡ stoːɹm ɪz kʌmɪŋ |1
+13_34.wav|bʌt ðɪs wʌz ɔːlsoʊ pɑːɹʃəli juːzd tə dʒʌstᵻfaɪ ɐnʌðɚɹ ɪŋkɹiːs ɪn pɹaɪs fɔːɹ ðɪs foʊn |1
+30_34.wav|bʌt ðɪs foʊn kleɪmz ðæt wɪð ɐ nuː tɛknɑːlədʒi kɔːld ækwə tʌtʃ |1
+50_34.wav|juː kæn ɡoʊ θɹuː ænd meɪk spɛʃəl wʌnz dʒʌst fɔːɹ wʌtɛvɚ juːs keɪs |1
+8_34.wav|soʊ ðɪs hɐz ɐ dɪfɹənt nuː fɪfti mɛɡəpɪksəl pɹaɪmɚɹi kæmɹə ɔnðə bæk |1
+123_34.wav|ʌm aɪ ɔːlsoʊ duː noʊ ðæt ðɛɹɑːɹ ɐ kʌpəl ʌv θɪŋz ðæt kʊd ðæt aɪ kʊd ðæt kʊdɐv bɪn dɪfɹənt tə meɪk ðæt peɪbæk piəɹɪəd ʃɔːɹɾɚ |1
+25_34.wav|ænd baɪ ðɪ ɛnd aɪ wʌz æktʃuːəli vɛɹi ɪmpɹɛst wɪð boʊθ |1
+41_34.wav|ɡluːd tə ðə fɹʌnt ʌvðə hɛdsɛt wɪtʃ wʊd lʊk ɐ lɪɾəl moːɹ wɪɹd |1
+106_34.wav|ðɛɹz ɐ wɔːl tʃɑːɹdʒɚ bɹeɪdᵻd juːɛsbiːsiː keɪbəlz ɡɐloːɹ |1
+77_34.wav|ɪt hɐz haɪɚ ɹɛzəluːʃən pɜːɹ aɪ |1
+113_34.wav|soʊ naʊ maɪ nʌmbɚ faɪv kæɾɪɡɚɹi ɪz æps |1
+76_34.wav|ɪz ɪt bɛɾɚ ðɐn ðə kwɛst pɹoʊ |1
+96_34.wav|bʌt naʊ wɪððə wɑːtʃ juː kæn hæv ɪt dᵻɹɛkt juː tə faɪnd ɛɡzæktli wɛɹ jʊɹ foʊn ɪz |1
+51_34.wav|ɪf juː ʃuːt ɐ lɑːt ʌv zuːm juː noʊ θɹiː ɛks ɪzənt ðə moʊst zuːm ɪnðə wɜːld bʌt ðə steɪbɪlᵻzeɪʃən ɔn ɪɾ ɪz soʊ ɹɑːk sɑːlɪd |1
+36_34.wav|bʌt ɪf juː ɛvɚ wɔnt tə fʊli ɪmɜːs joːɹsɛlf aɪ miːn ɪɾ ɪz ɐ viːɑːɹ hɛdsɛt æftɚɹ ɔːl |1
+0_34.wav|meɪbiː pɑːsᵻbli nɑːt bʌt ɑːbviəsli ɪts ɐ bʌmɚ hævɪŋ weɪ sloʊɚ stoːɹɪdʒ ɔn ɐ nuː ɛm tuː ænd ðæt ɛkstɹə taɪm tɹænsfɜːɹɪŋ lɑːɹdʒ faɪlz ðæt ædz ʌp oʊvɚ taɪm |1
+90_34.wav|bʌt ðeɪ lɪɾɚɹəli lɑːntʃt ɛkskluːsɪv ɡeɪmz ɔnðɪ aɪ foʊn ðæt ɑːɹ laɪk ɹɛzᵻdənt iːvəl vɪlɪdʒ ænd ɐsæsɪnz kɹiːd bʌt nɑːt ɔn kʌt daʊn moʊbəl vɜːʒənz |1
+28_34.wav|soʊ ɪts ɡɑːt wʌn ʌvðə bɪɡɪst bæɾɚɹiz ɛvɚɹ ɪn ɐ wʌn plʌs flæɡʃɪp |1
+28_35.wav|ɪts naʊ ɐ faɪv foːɹhʌndɹɪd mɪlɪæmp aʊɚ bæɾɚɹi |1
+28_35.wav|ɪts naʊ ɐ faɪv foːɹhʌndɹɪd mɪlɪæmp aʊɚ bæɾɚɹi |1
+28_35.wav|ɪts naʊ ɐ faɪv foːɹhʌndɹɪd mɪlɪæmp aʊɚ bæɾɚɹi |1
+128_35.wav|ɪɾ ɪz ɐ foːɹ eɪthʌndɹɪd mɪlɪæmp aʊɚ bæɾɚɹi wɪtʃ ɪz ɹiəli ɡʊd fɚɹə foʊldəbəl bʌt nɑːt dʒaɪɡæntɪk fɚɹə dʒaɪənt skɹiːn ɔnðɪ ɪnsaɪd |1
+127_35.wav|vɪʒuːəli ɪt lʊks pɹɪɾi flæt bʌt wɛn juː pʊt ɪɾ ɔn ɐ teɪbəl sɪns ðɛɹz ɐ kæmɹə bʌmp ɪt bɪkʌmz moːɹ klɪɹ æz ɪts ɹɑːkɪŋ bæk ænd fɔːɹθ |1
+39_35.wav|bʌt oʊkeɪ iːzili maɪ feɪvɚɹᵻt fiːtʃɚɹ ɪz kənɛktɪŋ tə jʊɹ mæk ɹaɪt |1
+78_35.wav|ænd baɪ ðə taɪm aɪ ɡɑːt ɔn steɪdʒ aɪ kæn stɑːɹt seɪɪŋ ɐn ɐksɛptəns spiːtʃ æz ɪts ɹiːdɪŋ ðɛm ɪntʊ maɪ ɪɹz wɪtʃ aɪ θɔːt wʌz ðæts kaɪnd əvə fʌn hæk |1
+19_35.wav|soʊ naʊ ɔn tə ðə nɛkst wʌn ɡælɐksi ɛs twɛnti |1
+115_35.wav|ɛvɹi taɪm juː dʒʌst pʊʃ wʌn bʌʔn̩ tə juːz ɐ suːpɚ haɪ kwɔlᵻɾi aɪ foʊn kæmɹə æz jʊɹ wɛbkæm ɪt wɜːks vɛɹi vɛɹi wɛl |1
+120_35.wav|ðæt paʊɚ dɹɔː ɪz ɔːlsoʊ sʌplɪməntᵻd baɪ ðə paʊɚwɔːl bæɾɚɹiz |1
+138_35.wav|jɛh ðæts vɛɹi ɛkspɛnsɪv |1
+42_35.wav|bɹaɪtnəs dɑːɹknəs |1
+130_35.wav|laɪk ðeɪv ɡɔn wɪð ðɪs pæspoːɹt saɪzd fɔːɹm fæktɚ ænd ðeɪv meɪd kɑːnʃəs dᵻsɪʒənz tə meɪk ɪt θɪn |1
+111_35.wav|bʌt ðɛɹz iːvən sʌm nuː stʌf naʊ ðætðɪ aɪ foʊn hɐz ðæt ændɹɔɪd dʌzənt |1
+125_35.wav|soʊ lɛts dʒʌst tə ɹæp ɛvɹɪθɪŋ ʌp hɪɹ maɪ wʌn jɪɹ kəŋkluːʒən |1
+81_35.wav|ɡɛs ðæt meɪks hɜː hɑːlɪdeɪ kɑːɹdz ðæt mʌtʃ iːziɚ bʌt ɔːlsoʊ iːvən ɪn vɪdɪoʊz juː noʊ aɪv teɪkən ɐ lɑːt ʌv vɪdɪoʊz ɔnðə pɪksəl eɪt ænd eɪt |1
+98_35.wav|ænd ðætwʌn lʊkt dʒʌst laɪk ðə jɪɹ bᵻfoːɹ wɪtʃ lʊkt dʒʌst laɪk ðə jɪɹ bᵻfoːɹ ðæt ænd ðə jɪɹ bᵻfoːɹ ðæt |1
+72_35.wav|iːvən bɛzəlz ɔːl ðə weɪ ɚɹaʊnd ɡɑːt ðə hoʊl pʌntʃ ɪnðə tɑːp kɔːɹnɚ ænd ɑːnɪstli wʌn ʌvðə liːst vɪzᵻbəl kɹiːsᵻz juː wɪl siː ɪn ɐ foʊldɪŋ foʊn ɪn tuː θaʊzənd twɛnti θɹiː |1
+20_35.wav|wiː ɹᵻvjuː ɐ lɑːt ʌv foʊnz ɑːbviəsli ænd wiːvhæd beɪsɪkli ɐ lɑːɹdʒ sæmpəl saɪz ʌv smɑːɹtfoʊnz ɪn lɔŋtɜːm stoːɹɪdʒ |1
+66_35.wav|ðeɪɚ tɹaɪɪŋ tə bɹeɪk aʊt ænd ðɛɹ ɑːpʃənz siːm tə biː |1
+4_35.wav|dʒʌst ðə fækt ðɐɾɪt wʌz æktʃuːəli smɔːl ænd ɹiːtʃəbəl fɹʌm kɔːɹnɚ tə kɔːɹnɚ ænd dɪdnt ɹᵻkwaɪɚ hjuːdʒ pɑːkɪts ɔːɹ hjuːdʒ hændz tə kʌmftəbli deɪli ɪt |1
+118_35.wav|juː æktʃuːəli wɛn jʊɹ fɜːst tɹaɪɪŋ tə ɡɛt ɐn ɛstᵻmət juː æktʃuːəli səbmɪt jʊɹ ɐdɹɛs ænd ðeɪ ɡoʊ lʊk ɔn ɡuːɡəl ɪmɪdʒᵻz ænd lʊk æt jʊɹ ɹuːf |1
+92_35.wav|ɪts nɑːt ʌntɪl juː zuːm ɔːl ðə weɪ ɪn ðæt juː kæn oʊkeɪ juː kæn siː ɐ dɪfɹəns |1
+12_35.wav|wʌt tɜːnd aʊt təbi mʌtʃ moːɹ sɪɡnɪfɪkənt wɪð ðɪs foʊn ɪz dʒʌst ðɪs suːpɚ sliːk dɪzaɪn |1
+38_35.wav|bʌt ðɛn ðeɪv bɪlt ðɪs hoʊl ɛnvaɪɹənmənt fɔːɹ pɹæktɪsɪŋ jʊɹ pɹɛzənteɪʃən skɪlz |1
+100_35.wav|aɪm hoʊpɪŋ ɪt stɑːɹts tə meɪk ɐ bɪt əvə kʌmbæk hɪɹ bɪkʌz ɔn ðɪs nuː aɪ foʊn ɪɾ ɪz ɡɹeɪt |1
+35_35.wav|ɪt teɪks ɐ fjuː ɛkstɹə bɹeɪn saɪkəlz tə ɹᵻmɛmbɚ tʊ ɔːlweɪz biː lʊkɪŋ ɛɡzæktli æt ðə θɪŋ jʊɹ kəntɹoʊlɪŋ |1
+49_35.wav|bʌt ʌv koːɹs θɪnɚɹ ɔːlsoʊ miːnz juː ɡɛst ɪt slaɪtli smɔːlɚ bæɾɚɹi |1
+23_35.wav|bʌt fɚðə beɪslaɪn foʊn juː noʊ moʊst piːpəlz skɹiːnz ɑːɹnt fɪfti mɛɡəpɪksəlz |1
+61_35.wav|soʊ naʊ ðæt aɪm nɑːt wɛɹɪŋ ɪt tə sliːp aɪɐm eɪbəl tə tʃɑːɹdʒ ðə siːɛmɛf wɑːtʃ ɛvɹi naɪt |1
+83_35.wav|soʊ jɛh aɪ wʊd dʒʌst seɪ aɪm pɹɑːbəbli ɡənə ɛnd ʌp meɪkɪŋ ɐn ɛntaɪɚ sɛpɹət vɪdɪoʊ dʒʌst ɐbaʊt ðɪs tuːl kɔːz ɪts fæsᵻneɪɾɪŋ ænd wʌt ɪt bɹɪŋz ɪntʊ ðə wɜːld |1
+63_35.wav|ðɛɹz ɔːlsoʊ sʌm ʌðɚ bɛnɪfɪts laɪk fɪzɪkli lɪmɪɾɪŋ ðɪ ɐmaʊnt ʌv bluː laɪt ðæt meɪks ɪt θɹuː |1
+43_35.wav|soʊ nɑːt təwɔːɹdz ɛvɹɪbɑːdi ɛls ɔnðə kɔːl |1
+105_35.wav|ænd ɪts æktʃuːəli ɹiəli ɪn dɛpθ ænd suːpɚ sɑːlɪd |1
+29_35.wav|bʌt hɪɹz ðə θɪŋ dʒʌst fɚðə kɑːntɛkst ʌv ðæt ɪts nɑːt ðæt fɑːɹ bᵻhaɪnd |1
+119_35.wav|ænd ðɛn ðə soʊlɚ sɪstəm biːɪŋ twɛnti naɪn θɹiː kɪləwɑːts miːnz ðæt beɪsɪkli ɪt siːmz laɪk ðə θiəɹɛɾɪkəl mæksɪməm ʌvðɪ ᵻlɛktɹɪsᵻɾi ðæt kæn biː kəlɛktᵻd |1
+91_35.wav|bʌt baɪ ðɪ ɛnd ʌv ðɪs aɪ kaɪnd ʌv fiːl laɪk aɪm ɛkspɛktɪŋ bæɾɚɹi laɪf tə beɪsɪkli iːvən aʊt təbi ðə seɪm æz læst jɪɹ wɪtʃ ɪz ɐ boːɹɪŋ ænsɚ bʌt ðæts kaɪnd ʌv wʌt aɪ ɛkspɛkt |1
+134_35.wav|sʌm wɪl duː ɪt fɹʌm ɐ sɪŋɡəl blæk ænd waɪt kæmɹə |1
+33_35.wav|ænd ɔːlsoʊ ðɛn tə dɪspleɪ ɐ ɹɛpɹᵻzɛnteɪʃən ʌv jʊɹ aɪz ɔnðɪ aʊtsaɪd ʌvðə hɛdsɛt |1
+31_35.wav|meɪbiː wʌn plʌs dɪdnt θɪŋk ɪt wʌz wɜːθ ðɪ ɛkstɹɚ ɹᵻsoːɹsᵻz ɪt dʌzənt θɪŋk piːpəl kɛɹ ðæt mʌtʃ ɐbaʊt ɪt tʊ æktʃuːəli spɛnd mʌni ɔn ɪt |1
+74_35.wav|ænd aɪ səspɛkt ɪts nɑːt ɡoʊɪŋ tə hæpən ɔn nɑːnfoʊldɪŋ foʊnz |1
+3_35.wav|soʊ ðeɪ hæv ðiːz kɑːmplɛks stʌdiz ænd ðɛɹ weɪz ʌv ɛstᵻmeɪɾɪŋ haʊ mɛni ðeɪ θɪŋk wɪl biː soʊld ʌv ɛvɹi sɪŋɡəl ɛskeɪjuː |1
+124_35.wav|ænd ɑːnɪstli ðɛɹ ɪz ɐ pɹɪɾi swiːt piːs ʌv maɪnd noʊɪŋ fɚɹə fækt ðæt ɪf aɪ doʊnt tʃɑːɹdʒ ðə kɑːɹ ðə paʊɚ wɔːlz hæv moːɹ ðɐn ɪnʌf tə dʒʌst juːz ðə haʊs |1
+104_35.wav|laɪk ðɪs aɪ tɔːkt ɐbaʊt ðɪs ɔnðə pɑːdkæst ɔn weɪvfɔːɹm |1
+30_35.wav|ɪt wɪl toʊɾəli ɹᵻmeɪn æz juːzəbəl æz ɛvɚɹ iːvən wɪð wɔːɾɚɹ ɔːl oʊvɚ ðə skɹiːn |1
+50_35.wav|ænd ðɛn wɛn ðə skɹiːn ɪz ɔf juː dʒʌst kænt iːvən siː ɪt |1
+8_35.wav|ænd ðɛn ɪt hɐz ðə seɪm ʌltɹə waɪd kæmɹə æz ðə nʌθɪŋ foʊn tuː |1
+103_35.wav|ðə pɹaɪmɚɹi kæmɹə ɪz naʊ ɐ foːɹɾi eɪt mɛɡəpɪksəl tʃɪp pɹɪzuːməbli ðə seɪm wʌn ðæt wʌz ɪnðɪ aɪ foʊn foːɹtiːn pɹoʊ læst jɪɹ |1
+123_35.wav|naʊ æktʃuːəli ðə nʌmbɚ wʌn sədʒɛstʃən tɪpɪkli wʊd biː laɪk oʊkeɪ ɪf juː wɔnt tə meɪk ðə peɪbæk piəɹɪəd ʃɔːɹɾɚ ɡɛt ɐ lɛs ɛkspɛnsɪv sɛɾʌp |1
+25_35.wav|soʊ ðə dɑːlɚɹ eɪthʌndɹɪd æpəl wɑːtʃ ʌltɹə æktʃuːəli oʊvɚpɚfɔːɹmd ðə θɜːɾi sɪks kleɪmd aʊɚz fɔːɹ miː |1
+41_35.wav|bʌt ðɛn tuː tə ɹɛpɹᵻzɛnt jʊɹ æktʃuːəl aɪz ðeɪv bɪlt ɪn ɐ weɪ tə skæn ɪn ænd kɹiːeɪt ɐ dɪdʒɪɾəl ɹɛpɹᵻzɛnteɪʃən ʌv jʊɹ feɪs wɪtʃ ɪz kɔːld jʊɹ pɜːsoʊnə |1
+106_35.wav|soʊ fiːl fɹiː tə lɜːn moːɹ ɐbaʊt æŋkɚz nuː laɪnʌp æt ðə lɪŋk bᵻloʊ |1
+77_35.wav|ɪt hɐz ɐ waɪdɚ moːɹ ɪmɜːsɪv fiːld ʌv vjuː |1
+76_35.wav|jɛs ɪts bɛɾɚ ðɐn ðə kwɛst pɹoʊ bʌt ɪɾ ɪz nɑːt æz ɡʊd æz æpəl vɪʒən pɹoʊ |1
+96_35.wav|kaɪnd ʌv laɪk faɪndɪŋ ɐn ɛɹ tæɡ iːvən moːɹ juːsfəl ɪf jʊɹ foʊn ɪz laɪk ɪn bᵻtwiːn sʌm kaʊtʃ kʊʃənz ɔːɹ sʌmθɪŋ ɔːɹ ɪf ɪts pleɪɪŋ saʊnd ɛkoʊɪŋ ɪn ɐ wɪɹd weɪ |1
+99_35.wav|ænd soʊ aɪ doʊnt noʊ ɛɡzæktli haʊ wɛl ðɪs wɪl hoʊld ʌp oʊvɚ taɪm |1
+0_35.wav|soʊ aɪm hæpi tə ɹᵻpoːɹt ðæt aɪv siːn ɹiəli ɡʊd bɛntʃmɑːɹks ɔnðə beɪs stoːɹɪdʒ ʌvðɪ ɛm θɹiː ɛɹ |1
+90_35.wav|ðiːz ɑːɹ lɪɾɚɹəli ðə seɪm vɜːʒənz wɪððə seɪm æsɛts ænd seɪm tɛkstʃɚz ænd ɛvɹɪθɪŋ fɹʌmðə pleɪ steɪʃən vɜːʒən |1
+28_35.wav|ɪts naʊ ɐ faɪv foːɹhʌndɹɪd mɪlɪæmp aʊɚ bæɾɚɹi |1
+28_36.wav|ðæts bɪɡɚ ðænə lɑːt ʌv ʌðɚ foʊnz ðæt ɑːɹ ʌltɹəz naʊ |1
+28_36.wav|ðæts bɪɡɚ ðænə lɑːt ʌv ʌðɚ foʊnz ðæt ɑːɹ ʌltɹəz naʊ |1
+28_36.wav|ðæts bɪɡɚ ðænə lɑːt ʌv ʌðɚ foʊnz ðæt ɑːɹ ʌltɹəz naʊ |1
+128_36.wav|soʊ pɪksəlz hæv ðɪs fiːtʃɚ kɔːld ɐdæptɪv bæɾɚɹi ænd sʌmtaɪmz ðeɪ kæn ɡɛt ɐ lɪɾəl bɪt bɛɾɚ |1
+127_36.wav|ɪts meɪbiː laɪk wʌn ɔːɹ tuː dᵻɡɹiːz ʃɔːɹt ʌv flæt |1
+39_36.wav|soʊ ɛnɪtaɪm jʊɹ mæk ɪz ɪn fɹʌnt ʌv juː ænd ɪts tɜːnd ɔn |1
+78_36.wav|soʊ ðɪs ɪz ɔːl beɪst ɔn mɛɾəz nuː lɑːmə tuː |1
+115_36.wav|bʌt ðɛn ðə pɑːpjʊlæɹᵻɾi fæktɚ |1
+120_36.wav|ðɛɹwɜːɹ ɐ lɑːt ʌv sʌmɚ deɪz laɪk ðɪs |1
+138_36.wav|bʌt ðɪs ɪz ðə θɪŋ ðæt ɪz ɔːlweɪz wɪɹd wɪð æpəl pɹɑːdʌkts |1
+42_36.wav|aɪ θɪŋk aɪm ɚɹaʊnd ðɛɹ nɪɹ ðə mɪdəl |1
+37_36.wav|soʊ wʌt ɪz ðɪ æp sɪtʃuːeɪʃən ɔnðə vɪʒən pɹoʊ |1
+55_36.wav|soʊ wiː hæv aʊɚ wɪnɚz ænd luːzɚz ɪn iːtʃ əv ðə θɹiː kæɾɪɡɚɹiz wɪtʃ ɪz kuːl |1
+22_36.wav|bʌt wɪð diːbɹændz keɪsᵻz fɚðɪ ɛs twɛnti foːɹ sɪɹiz ðeɪ ɔːl kʌm wɪð mæɡnɪts bɪlt ɪn |1
+125_36.wav|ðɪs ɪz ɐn ɔːsʌm piːs ʌv bliːdɪŋ ɛdʒ tɛk |1
+86_36.wav|soʊ aɪ wɔnt tə ɡɪv ðɛm kɹɛdɪt fɚɹən ɔːsʌm pɹɑːmɪs |1
+11_36.wav|ðɪs foʊn ɪz noʊɾəbli bɪɡɚ ænd noʊɾɪsəbli sliːkɚ ðɐn ðə fɜːst ɡælɐksi ɛs ænd ðiːz wɜː bæk ɪnðə deɪz wɛɹ ðə pɚsɛntɪdʒ ɪŋkɹiːsᵻz jɪɹ oʊvɚ jɪɹ wɪð sʌm ʌvðə stʌf ðeɪ dɪd wʌz kɹeɪzi ɔn peɪpɚ |1
+72_36.wav|naʊ aɪ θɪŋk ɪts æktʃuːəli dᵻbeɪɾəbəl ɪf wiː kæn tɛknɪkli kɔːl ðɪs ðɛɹ fɜːst foʊldəbəl foʊn bɪkʌz waɪl wʌn plʌs hæzənt meɪd ɐ foʊldəbəl jɛt ðɛɹ sɪstɚ kʌmpəni ɑːpoʊ klɪɹli hæz |1
+20_36.wav|ænd ðɪ oʊnli bɹænd ðæts hæd moːɹ ðɐn wʌn smɑːɹtfoʊn huːz bæɾɚɹi swɛlz ʌp laɪk ɐ bəluːn tə ðə pɔɪnt wɛɹ wiː hæv tə ɡɛt ɹɪd ʌv ɪɾ ɪz sæmsʌŋ |1
+66_36.wav|dʒʌst ɡɪv ʌp ɔnðə juːɛs ænd nɛvɚɹ ɔːɹ meɪbiː tɹaɪ tə stɹaɪk ɐ kæɹiɚ diːl ænd ɡɛt ɪn ðæt weɪ bʌt ɪt dʌzənt siːm laɪk ɪt maɪt wɜːk |1
+131_36.wav|ɔːlsoʊ juː maɪɾəv spɑːɾᵻd ɐ fjuː dɪzaɪnz fɹʌm tʃænəl spɑːnsɚ diːbɹænd ɐ fjuː taɪmz ɪn ðɪs vɪdɪoʊ |1
+92_36.wav|juː kæn stɑːɹt tə noʊɾɪs ɐ dɪfɹəns ɪn faɪn diːteɪl ænd kɑːntɹæst |1
+12_36.wav|ðə hoʊl θɪŋ ɪz ʃeɪpt laɪk ɐ θɪn pɛbəl ðæt juː kʊd pɹɑːbəbli skɪp əkɹɑːs ɐ leɪk |1
+38_36.wav|soʊ juː pɹɛs ðæt ænd ɪt sɛz oʊ wʊd juː laɪk tə ɡoʊ tʊ ɐ kɑːnfɹəns ɹuːm ɔːɹ ðə lɪɾɚɹəl stiːv dʒɑːbz θiəɾɚ |1
+100_36.wav|soʊ juː dʒʌmp ɪntʊ ðə sɛɾɪŋz ænd ɡoʊ tʊ ækʃən bʌʔn̩ ænd ɪt loʊdz ʌp ðɪs |1
+35_36.wav|soʊ wɛn juː oʊpən ɐ wɪndoʊ əvə vɪʒən oʊɛs æp laɪk ɛni wʌn ʌvðə dᵻfɔlt æpəl æps hɪɹ ɪt lɑːks ɪntʊ pleɪs ɪts floʊɾɪŋ ðɛɹ |1
+49_36.wav|ɐɡɛn fɚðə fɜːst taɪm ɪn ɐn ɑːɹɹoʊdʒiː foʊn ɪt ɡoʊz fɹʌm sɪks ziəɹoʊziəɹoʊ ziəɹoʊ mɪlɪæmp aʊɚz tə faɪv faɪvhʌndɹɪd mɪlɪæmp aʊɚz |1
+23_36.wav|soʊ aɪ θɪŋk ðɪs ɪz ɐ vɛɹi ɐpɹoʊpɹɪət plætoʊ |1
+14_36.wav|naʊ ðɪs ɪz ɐ ɹɛsᵻpiː tə meɪk ɛnθuːziæsts pɚtɪkjʊlɚli mæd |1
+53_36.wav|soʊ ðɪs ɪz ðə foʊɾoʊ ðæt juː ɡaɪz fɚðə moʊst pɑːɹt voʊɾᵻd æz ðə wɪnɚɹ ɪn moʊst əv ɪts mætʃʌps |1
+69_36.wav|ænd fɚɹə læptɑːp laɪk ðɪs ðæts tɪpɪkli ɡeɪmz ɔːɹ haɪ paʊɚd ɡɹæfɪks ɹᵻleɪɾᵻd æplɪkeɪʃənz |1
+61_36.wav|laɪk aɪ sɛd ɪts ɡɑːt ðɪs lɪɾəl mæɡnɛɾɪk pɪn tʃɑːɹdʒɚ |1
+63_36.wav|soʊ ɪnstɛd əvə spɛʃəl moʊd ɪnðə sɔftwɛɹ ðɛɹ ɪz dʒʌst fɪzɪkli lɛs bluː laɪt meɪkɪŋ ɪt θɹuː ɐn ɐdɪʃənəl fɪltɚɹ ɪntʊ jʊɹ aɪz |1
+46_36.wav|naʊ ɪt kæn duː θɪŋz laɪk stɹeɪtən aʊt jʊɹ hændɹaɪɾɪŋ ɔːɹ tɜːn jʊɹ noʊts ɪntʊ bʊlɪt pɔɪnts ɔːɹ sʌmɚɹaɪz jʊɹ noʊts |1
+105_36.wav|ɪt beɪsɪkli lɛts juː ɡoʊ θɹuː ænd pɪk ðə fʌŋkʃən ʌvðə bʌʔn̩ |1
+29_36.wav|wiːv ɔːlɹɛdi tɛstᵻd ðɪs bɪkʌz wiː dɪd ðə blaɪnd smɑːɹtfoʊn kæmɹə tɛst læst jɪɹ wɪð twɛnti ʌvðə bɛst smɑːɹtfoʊn kæmɹəz ɪnðə wɜːld |1
+10_36.wav|laɪk juːʒuːəl ðeɪɚ suːpɚ fʌn |1
+91_36.wav|naʊ wiː kæn tɔːk ɔːl wiː wɔnt ɐbaʊt wʌt ðə wɜːd pɹoʊ æktʃuːəli miːnz ɪn ɐ smɑːɹtfoʊn bʌt wɪð aɪ foʊnz ðæt ɪz moʊstli mɛnt |1
+134_36.wav|sʌm wɪl duː stɛɹɪoʊ pæsθɹuː fɹʌm tuː kæmɹəz |1
+70_36.wav|wʌz oʊkeɪ lʊk wɛn ðɪ ᵻvɛnt hæpənd aɪ wɑːtʃt ɪt ænd ðæt læst vɪdɪoʊ juː kæn siː ɪn ðæt hoʊtɛl ɹuːm ænd aɪ wʌz vɛɹi ɛksaɪɾᵻd ɐbaʊt ɪt ɡɑːt ɐnaʊnst aɪ sɔː ɐ nuː mæp |1
+74_36.wav|bʌt ðə θɜːd ænd faɪnəl ɹiːzən foʊldɪŋ foʊnz æz ɡɹeɪt æz ðeɪv bɪn ɡɛɾɪŋ ɑːɹnt nɛsɪsɛɹᵻli tɹænsleɪɾɪŋ tə meɪnstɹiːm səksɛs |1
+104_36.wav|aɪl tɹaɪ tə lɪŋk ðɪ ɛpɪsoʊd bᵻloʊ bʌt laɪk swɪtʃɪŋ tə juːɛsbiːsiː juːd θɪŋk oʊ ðɪs ɪz ɐ hjuːdʒ ɑːpɚtuːnᵻɾi fɔːɹ æpəl tə laɪk |1
+13_36.wav|æt lɑːntʃ aɪ doʊnt noʊ ɪf juː ɹᵻmɛmbɚ ðɪs ɪt lɑːntʃt æt dɑːlɚ sɪkshʌndɹɪd fɪfti |1
+8_36.wav|ænd æktʃuːəli ɔːlsoʊ ðə seɪm sɛlfi kæmɹə ænd lʊk ɪt kæn teɪk oʊkeɪ |1
+123_36.wav|ænd ðæt wʊd meɪk sɛns bʌt ɔːlsoʊ juː hæv tə kiːp ɪn maɪnd ðə kʌvɚɹɪdʒ ɹiəli mæɾɚz hɪɹ |1
+25_36.wav|baɪ aʊɚ fɪfti sɪks ɪt wʌz ɐbaʊt ɹɛdi tə daɪ |1
+77_36.wav|ænd ɪts ɪn maɪ əpɪniən slaɪtli moːɹ kʌmftəbəl θæŋks tə ðɪs nuː stɹæp ðæt ɪmpɹuːvz weɪt dɪstɹɪbjuːʃən |1
+76_36.wav|aɪ wʊd kaɪnd ʌv ɪkweɪt ɪt tə laɪk ɪf aɪ ɡeɪv juː ɐ klɪɹ pɛɹ ʌv ɡlæsᵻz ðæt wɜː nɑːt ɛɡzæktli jʊɹ pɹɪskɹɪpʃən |1
+96_36.wav|aɪ θɪŋk ðɪs ɪz ɐ ɡɹeɪt iːkoʊsɪstəm fiːtʃɚ |1
+51_36.wav|ɔːl ðæt ɪz tə seɪ ɪts lɛvəld ʌp bʌt ɪts klɪɹli stɪl nɑːt ðə foʊkəs ʌv ðɪs foʊn |1
+99_36.wav|bʌt wʌt aɪ duː noʊ ɪz ɪf juː ɡɛt ɐ skɹætʃ diːp ɪnʌf ɪntʊ ðɪs koʊɾɪŋ |1
+90_36.wav|bɪkʌz ɪt lɪɾɚɹəli ɪz ðə pleɪ steɪʃən vɜːʒən |1
+28_36.wav|ðæts bɪɡɚ ðænə lɑːt ʌv ʌðɚ foʊnz ðæt ɑːɹ ʌltɹəz naʊ |1
+28_37.wav|ænd juː bɛɾɚ bᵻliːv ðeɪv kɛpt ðɛɹ tɹeɪdmɑːɹk suːpɚ fæst tʃɑːɹdʒɪŋ ɔːlsoʊ |1
+28_37.wav|ænd juː bɛɾɚ bᵻliːv ðeɪv kɛpt ðɛɹ tɹeɪdmɑːɹk suːpɚ fæst tʃɑːɹdʒɪŋ ɔːlsoʊ |1
+28_37.wav|ænd juː bɛɾɚ bᵻliːv ðeɪv kɛpt ðɛɹ tɹeɪdmɑːɹk suːpɚ fæst tʃɑːɹdʒɪŋ ɔːlsoʊ |1
+18_37.wav|ænd aɪ sɛd æz mʌtʃ ɪn maɪ ɚɹɪdʒɪnəl ɹᵻvjuː bæk ɪn tuː θaʊzənd eɪtiːn |1
+19_37.wav|beɪsɪkli tuː θaʊzənd twɛnti ɪz ðə jɪɹ sæmsʌŋ |1
+120_37.wav|ɔnðɪ æbsəluːt bɛst deɪ ɪn ðɪs taɪm aɪ θɪŋk aɪ dʒɛnɚɹeɪɾᵻd ɔːlmoʊst θɹiːhʌndɹɪd kɪləwɑːt aʊɚz ʌv ᵻlɛktɹɪsᵻɾi |1
+42_37.wav|nɛkst ænd ðɛn aɪ kæn æd ɡlæsᵻz |1
+37_37.wav|soʊ ðɛɹɑːɹ tuː taɪps ʌv æps ɔnðə vɪʒən pɹoʊ æktʃuːəli |1
+55_37.wav|bʌt ɪf juː ævɹɪdʒ ɪɾ ɔːl təɡɛðɚ wiː hæv ðə haɪɪst oʊvɚɹɔːl ævɹɪdʒ iːɛloʊ ɹeɪɾɪŋ |1
+22_37.wav|soʊ ðæt miːnz beɪsɪkli ɛni kaɪ tuː ɔːɹ mæɡ seɪf ɐksɛsɚɹiz wɪl wɜːk ɔnðɪ ɛs twɛnti foːɹ |1
+125_37.wav|juː kæn tɛl ɪts bliːdɪŋ ɛdʒ bɪkʌz ɪts stɪl ɹæpɪdli ɪvɑːlvɪŋ oʊvɚ taɪm |1
+86_37.wav|bʌt ɪts ɐ pɹɑːmɪs ænd ɡuːɡəl bɹeɪks pɹɑːmɪsᵻz ɔːl ðə taɪm |1
+11_37.wav|laɪk ðɪs wɛnt fɹʌm ɐ wʌn ɡɪɡəhɜːts tʃɪp tʊ ɐ wʌn tuː ɡɪɡəhɜːts duːəl koːɹ tʃɪp |1
+72_37.wav|soʊ aɪ wʊdənt biː sɚpɹaɪzd ɪf ðɪs tʊk ɐ lɑːt ʌv tɛk fɹʌm ðɛm |1
+66_37.wav|ɔːɹ dʒʌst liːn ɔːl ðə weɪ ɪn ænd ɛmbɹeɪs ðɪ æktʃuːəl hɑːɹt ʌvðə kwɛstʃən ðə nʌmbɚ wʌn pɹɑːbləm ðə bɪɡɪst æsɛt ʌvðɪ ʌðɚ saɪd |1
+4_37.wav|ænd naʊ ɪts dʒʌst laɪk ɐ ɑːɹɹoʊdʒiː foʊn maɪnəs ðə ɡeɪmɚ stʌf |1
+131_37.wav|ðɪs nuː wʌn ɪts kɔːld ɹoʊbɑːt sɪɾi ænd aɪ θɪŋk ɪts pɹɪɾi sɪk |1
+92_37.wav|ðə fɪftiːn pɹoʊ ɪz dɛfɪnətli wɛn jʊɹ pɪksəl piːpɪŋ moːɹ kɑːntɹæsti ænd ʃɑːɹp wɛn jʊɹ ɔːl ðə weɪ zuːmd ɪn vɜːsᵻz læst jɪɹ |1
+38_37.wav|soʊ juː kæn ɹᵻhɜːs tɔːkɪŋ tə jʊɹ ɔːdiəns wɪð jʊɹ kiːnoʊt slaɪdz bᵻhaɪnd juː |1
+35_37.wav|ɪt kaɪnd ʌv lʊks ɐɡɛn laɪk ɐn aɪ pæd æp bʌt vɛɹi ɡlæsi laɪk ðɪs fɹɔstᵻd ɡlæs ɚɹaʊnd ðə juːaɪ sɔːɹt ʌv |1
+49_37.wav|təbi ɑːnɪst ɪn juːzɪŋ ðɪs foʊn aɪ hævənt ɹiəli noʊɾɪst ðə dɪfɹəns bɪkʌz ɪts stɪl sʌtʃ ɐ bæɾɚɹi tʃæmp wɪð ɔːl ðɪ ɑːptɪmᵻzeɪʃənz eɪsəs hɐz pʊld wɪððə sɔftwɛɹ wɪð ðɪs dɪspleɪ bʌt ðeɪ dɪd tɛknɪkli |1
+23_37.wav|bʌt ðɛn læst bʌt nɑːt liːst stɑːɹɾɪŋ pɹaɪs |1
+53_37.wav|pɹɪɾi nuːtɹəl foʊɾoʊ təbi ɑːnɪst nɑːt tuː bɹaɪt nɑːt tuː dɑːɹk pɹɪɾi ɛksələnt daɪnæmɪk ɹeɪndʒ |1
+69_37.wav|soʊ jɛh wɛn juː siː ðæt paʊɚfəl nuː dʒiːpiːjuː ɪn ɐ læptɑːp |1
+61_37.wav|tɛknɪkli nɑːt æz pɹɪɾi æz ðoʊz fænsi waɪɚləs tʃɑːɹdʒɪŋ pʌks bʌt ɑːnɪstli pɹɪɾi kloʊs |1
+63_37.wav|ænd ɐnʌðɚɹ ʌndɚɹeɪɾᵻd wʌn ðə fiːl |1
+46_37.wav|ɪts dʒʌst juː ɡɑːt tə faɪnd ðoʊz lɪɾəl stɑːɹz ænd pɹɛs ðɛm |1
+10_37.wav|soʊ sæmsʌŋ ɡælɐksi ɛs ðɪs ɪz ðə fɜːst wʌn |1
+91_37.wav|kæmɹəz ænd ʌ ɪt tɜːnz aʊt ðɛɹ ɪz ɐ lɑːt ɡoʊɪŋ ɔn wɪð ðiːz ɹɛlətɪvli sɪmɪlɚ lʊkɪŋ kæmɹəz ɔn ðiːz nuː pɹoʊ foʊnz boʊθ ɪn hɑːɹdwɛɹ ænd sɔftwɛɹ |1
+74_37.wav|ɪz ðæt ðeɪɚ paʊɚ juːzɚ foʊnz |1
+104_37.wav|ɛkspleɪn waɪ ðeɪɚ duːɪŋ ɪt ænd wiː noʊ waɪ ðeɪɚ duːɪŋ ɪt bʌt oʊ waɪ ɑːɹ juː ɡɪvɪŋ ʌs ðɪs nuː poːɹt ænd ɔːl ðɪs ðɪs bɪɡ nuː juːɛsbiːsiː diːl |1
+13_37.wav|ðɪs ɪz ɔːlsoʊ ðə fɜːst taɪm sæmsʌŋ meɪd ɐn æktɪv vɜːʒən ʌvðə foʊn |1
+30_37.wav|ɪt maɪt saʊnd ɹɪdɪkjʊləs bʌt ɪɾ æktʃuːəli wɜːks |1
+89_37.wav|juː noʊ aɪ foʊn juːzɚz kæn naʊ teɪk ɐdvæntɪdʒ ʌvðə juː ɪn juːɛsbiːsiː |1
+50_37.wav|ænd ɔn tɑːp ʌv ɔːl ʌv ðæt ðeɪ iːvən meɪd ɹuːm fɚðə |1
+103_37.wav|ænd ðɛn ðə ɹɛst ʌvðə foʊn ɹiəli fɑːloʊz ðæt seɪm fɔːɹmjʊlə |1
+123_37.wav|soʊ aɪ kʊdɐv ɡɔn wɪð ɐ mʌtʃ lɛs ɛkspɛnsɪv æktʃuːəli ɐ soʊlɚ pænəl ɚɹeɪ fɹʌm tɛslə ɔn |1
+41_37.wav|soʊ tə ɡɛt ðoʊz aɪz ɔnðɪ aʊtsaɪd ʌvðə vɪʒən pɹoʊ hɛdsɛt juː hæv tə duː sʌmθɪŋ kɔːld ɹɛdʒɪstɚɹɪŋ jʊɹ pɜːsoʊnə |1
+106_37.wav|soʊ aɪ foʊn fɪftiːn pɹoʊ wɪl stɑːɹt æt ðə seɪm pɹaɪs æz læst jɪɹ wɪtʃ ɪz dɑːlɚ naɪnhʌndɹɪd naɪnti naɪn bʌt ðeɪv bʌmpt ʌp aɪ foʊn fɪftiːn pɹoʊ mæks |1
+76_37.wav|bʌt beɪsɪkli ðɪs wʌnz ɡʊd bɪkʌz ɪts stɛɹɪoʊ ænd kʌlɚɹ ænd nɪɹli ɹiːəl taɪm |1
+51_37.wav|foʊkəs bʌt ɪts nɑːt ðə stɹɛŋθ ʌv ðɪs foʊn wɪtʃ maɪt dʒʌst biː faɪn ɪn ɐnʌðɚ sɪks dɑːlɚ sɛvənhʌndɹɪd foʊn |1
+99_37.wav|ɪts ɡɑːt təbi ðə nætʃɚɹəl taɪteɪniəm kʌlɚɹ ʌndɚniːθ wɪtʃ ɪz vɛɹi laɪt |1
+28_37.wav|ænd juː bɛɾɚ bᵻliːv ðeɪv kɛpt ðɛɹ tɹeɪdmɑːɹk suːpɚ fæst tʃɑːɹdʒɪŋ ɔːlsoʊ |1
+28_38.wav|soʊ ɪts tɛknɪkli ɐ splɪt bæɾɚɹi |1
+28_38.wav|soʊ ɪts tɛknɪkli ɐ splɪt bæɾɚɹi |1
+28_38.wav|soʊ ɪts tɛknɪkli ɐ splɪt bæɾɚɹi |1
+18_38.wav|naʊ ɪz ɪt stɪl sæmsʌŋ sɔftwɛɹ |1
+127_38.wav|aɪ miːn juː kæn foːɹs ɪt tə ɡɛt tə flæt ɔːɹ iːvən ɐ lɪɾəl bɪt pæst ðæt bʌt ɪt ɹiəli dʌzənt fiːl ɡʊd tə duː ðæt |1
+120_38.wav|bʌt bɪkʌz ʌv haʊ mʌtʃ ðə haʊs ɪz juːzɪŋ fɹʌmðɪ eɪsiː tə tʃɑːɹdʒɪŋ ðə kɑːɹ ɛvɹi sɪŋɡəl deɪ fɹiːkwəntli aɪd juːs tuːhʌndɹɪd kɪləwɑːts |1
+138_38.wav|laɪk aɪ ɔːlweɪz juː ɔːlweɪz seɪ ɪts ɛkspɛnsɪv bʌt laɪk kəmpɛɹd tə wʌt |1
+42_38.wav|soʊ ɪf aɪ tɪpɪkli hæv ɡlæsᵻz wɪtʃ ɑːbviəsli aɪ wʊdənt biː eɪbəl tə wɛɹ ɪnðə vɪʒən pɹoʊ juː kæn stɪl lʊk laɪk juː hæv ɡlæsᵻz ɛnɪtaɪm jʊɹ ɔn ðæt feɪs taɪm kɔːl |1
+37_38.wav|ðə fɜːst ɪz æps ðæt ɑːɹ |1
+55_38.wav|wiːl kɔːl ðɪswʌn ðə piːpəlz tʃæmp |1
+22_38.wav|soʊ ðeɪ ᵻsɛnʃəli ɡɪv juː ðæt iːzi ɐlaɪnmənt ɔn ɛni |1
+72_38.wav|æktʃuːəli ðɛɹ ɪz ɐnʌðɚ dʒʌst ɹᵻliːst ɑːpoʊ foʊn kɔːld ðɪ ɑːpoʊ faɪnd ɛn θɹiː ænd ɪts ðə seɪm æz ðɪs |1
+4_38.wav|æktʃuːəli sɪɹiəsli ðæts beɪsɪkli wʌt ɪɾ ɪz |1
+131_38.wav|ɪts wʌn ʌv maɪ feɪvɚɹᵻt dɪzaɪnz ðeɪv ɹᵻliːst jɛt |1
+92_38.wav|bʌt ðæts dʒʌst wɛn juːv zuːmd ɔːl ðə weɪ ɪn |1
+38_38.wav|ɪɾ ɪz dʒɛnjuːɪnli ɪŋkɹɛdɪbli ɪmɜːsɪv |1
+23_38.wav|wiː ɔːl noʊ wʌt hæpənd wɪð smɑːɹtfoʊnz oʊvɚ ðə jɪɹz ænd hɪɹ juː kæn siː ɪt vɪʒuːəlaɪzd |1
+14_38.wav|soʊ ðeɪ hɜːd ðæt ðɪs wɛnt fɹʌm ɐ tuː eɪthʌndɹɪd tuː |1
+21_38.wav|soʊ ðə ɡælɐksi ɛs twɛnti θɹiː wʌz ɪntɹɛstɪŋ fɔːɹ wʌn ɹiːzən ænd wʌn ɹiːzən oʊnli noʊmoːɹ ɛksɪnoʊz vɜːʒən |1
+53_38.wav|ænd ɪts ɔːlsoʊ nɑːɾə fluːk bɪkʌz ðə sɛkənd haɪɪst iːɛloʊ ɹeɪɾɪŋ keɪm fɹʌmðə |1
+63_38.wav|aɪ miːn lɪɾɚɹəli ðə weɪ ðə ɡlæs fiːlz ʌndɚ jʊɹ fɪŋɡɚ |1
+46_38.wav|ænd ðə ɡælɐksi ɛs twɛnti foːɹ ʌltɹə fiːlz laɪk ɪt bɪkʌmz moːɹ ðɐn dʒʌst ðɪ ʌltᵻmət noʊt teɪkɪŋ dɪvaɪs bʌt naʊ ɪts iːvən moːɹ juːsfəl ɔn tɑːp ʌvðɪ ɔːlɹɛdi boːɹdɚlaɪn mædʒɪkəl hændɹaɪɾɪŋ ɹɛkəɡnɪʃən ænd ɔːl ðæt stʌf |1
+105_38.wav|soʊ juː kæn kiːp ðə mjuːt swɪtʃ ɔn ɔːɹ juː kæn hæv ɪt swɪtʃ juː ɪn ænd aʊɾəv ɐ sɜːʔn̩ foʊkəs moʊd laɪk duːnɑːt dɪstɜːb ɔːɹ juː kʊd pɪk wɪtʃɛvɚɹ ʌðɚ wʌn juː wɔnt |1
+134_38.wav|ðə pæsθɹuː ɔn æpəlz hɛdsɛt ɪz ɐɡɛn ðə bɛst aɪv ɛvɚ siːn ɪn ɐ hɛdsɛt |1
+74_38.wav|ðeɪɚ foʊldɪŋ ænd ʌnfoʊldɪŋ ɪz ɐ paʊɚ juːzɚ fiːtʃɚ |1
+104_38.wav|ænd ɪts ɪts dʒʌst ðə seɪm twɛnti ɔːɹ soʊ wɑːt tʃɑːɹdʒɪŋ wiːvhæd fɚðɪ aɪ foʊn fɔːɹ fɚɹɛvɚ |1
+30_38.wav|ɪts nɑːt pɜːfɛkt ɑːbviəsli bʌt juː kæn dɛfɪnətli fiːl ðæt ɪts dɹəmæɾɪkli moːɹ ɹᵻspɑːnsɪv tə ðə pɔɪnt wɛɹ aɪ kæn æktʃuːəli taɪp θɪŋz ɔn ðɪs wɛt foʊn skɹiːn wɛɹ aɪ dʒʌst wʊd nɑːt wɔnt tə duː ðæt ɔn ɛni ʌðɚ foʊn wɪðaʊt ðɪs |1
+89_38.wav|aɪ tɔːkt ɐbaʊt ðə hændʃeɪk ɪt dʌz wɪð plʌɡɪŋ dᵻɹɛktli ɪntʊ ʌðɚ foʊnz ænd ɹᵻvɜːs tʃɑːɹdʒɪŋ ðɛm æt foːɹ ænd ɐ hæf wɑːts ɪnðɪ ʌnbɑːksɪŋ vɪdɪoʊ |1
+103_38.wav|ðeɪ duː ðɪs θɪŋ wɛɹ ðə nuː beɪslaɪn foʊn ɪz beɪsɪkli læst jɪɹz pɹoʊ foʊn ɹᵻpækɪdʒd |1
+25_38.wav|hæd ɐbaʊt fɪftiːn pɚsɛnt lɛft |1
+41_38.wav|ðɪs ɪz haʊ ɪt kɹiːeɪts ðə dɪdʒɪɾəl vɜːʒən ʌv juː ðæt ɪŋkluːdz jʊɹ aɪz ðæt wɪl ʃoʊ ʌp hɪɹ |1
+77_38.wav|aɪv ɹiəli ɛndʒɔɪd ðɪs ɡɑːlf ɡeɪm ðæt fiːlz sɚpɹaɪzɪŋli ɹiːəlɪstɪk æz sʌmwʌn ðæt wʌz ɛkspɛktɪŋ laɪk wiːː ɡɑːlf lɛvəlz ʌv ɡɹæfɪks ænd kəntɹoʊl |1
+76_38.wav|soʊ juː siː ækjʊɹət kʌlɚz juː lʊk æt jʊɹ hændz ænd juː kæn faɪnd ðə kəntɹoʊlɚ |1
+99_38.wav|ænd soʊ ðæt maɪt lʊk ɹʌf ɪf juː ɪf juː dɹɑːp ðɪs foʊn wɪð noʊ keɪs ænd ɡɛt laɪk ɐ bɪɡ ɡæʃ ɔn jʊɹ dɑːɹk kʌlɚd foʊn ænd hæv laɪt mɑːɹks ɔːl oʊvɚɹ ɪt |1
+114_38.wav|duː juː wɔnt ðə wɜːldz fæstɪst tʃɑːɹdʒɪŋ |1
+90_38.wav|plʌs juː noʊ pɚfoːɹməns hɛdɹuːm ɪz nɛvɚɹ ɐ bæd θɪŋ |1
+127_39.wav|ɛnɪweɪ ðɛn ðɛɹz ðə bɛzəl |1
+138_39.wav|ænd ðeɪ dɪd ðɪs wɪððə pɹoʊ dɪspleɪ ɛksdiːɑːɹ |1
+42_39.wav|ænd ðɛn nɛkst seɪv ænd ðætsɪt |1
+55_39.wav|ænd wɪððə haɪɪst ævɹɪdʒ ʌv wʌn θaʊzənd sɪkshʌndɹɪd sɪksti ðæts pɹɪɾi kəmpɛɾᵻtɪv |1
+125_39.wav|soʊ fɔːɹ ɜːli ɐdɑːptɚz laɪk miː huː ɑːɹ wɪlɪŋ tə teɪk ðə plʌndʒ wɪlɪŋ tə teɪk ðæt ɹɪsk ɐ lɪɾəl bɪt ɪt kæn biː ɹiəli ɔːsʌm |1
+66_39.wav|soʊ wʌt nʌθɪŋ hɐz dᵻsaɪdᵻd tə duː ænd ðeɪɚɹ ɐnaʊnsɪŋ ðɪs tədeɪ ɪz ðeɪ hæv bɪlt aɪ mɛsɪdʒ ɪntʊ ðɛɹ ændɹɔɪd foʊn |1
+4_39.wav|ðɪs ɪz ðə nuː zɛnfoʊn nɛkst tə ðə nuː ɑːɹɹoʊdʒiː foʊn |1
+131_39.wav|ɪt hɛlps ɐ lɑːt ɔːlsoʊ ɔn ɐ foʊn ðæts æz mənɑːtənəs æz ðə pɪksəl foʊld |1
+92_39.wav|ænd baɪ ðə weɪ wʌns juː ɡɛt pæst tuː ɛks zuːm ɪts bæk tə kɪkɪŋ aʊt ɹɛɡjʊlɚ twɛlv mɛɡəpɪksəl ɪmɪdʒᵻz |1
+12_39.wav|ɪt hæd ɐ tʌn ʌv wɔːɾɚ dɹɑːplɪt saʊndz ɛvɹɪwɛɹ |1
+38_39.wav|ænd ðɛɹz ɔːlɹɛdi ɐ bʌntʃ moːɹ æps laɪk ðɪs ɪnðɪ æp stoːɹ ɔːlɹɛdi æt lɑːntʃ ðæt ɑːɹ spəsɪfɪkli bɪlt fɔːɹ vɪʒən pɹoʊ |1
+21_39.wav|soʊ ɛvɹi sɪŋɡəl ɡælɐksi ɛs twɛnti θɹiː ænd ɡælɐksi ɛs twɛnti θɹiː plʌs ænd ɛs twɛnti θɹiː ʌltɹə ʃɪps wɪððə seɪm slaɪtli kʌstəmaɪzd kwɔlkɑːm snæpdɹæɡən eɪt dʒɛn tuː tʃɪpsɛt |1
+105_39.wav|juː kʊd ɔːlsoʊ hæv ɪɾ ɔːɾoʊ lɑːntʃ ðə kæmɹə ænd pɪk wɪtʃɛvɚ kæmɹə moʊd ɪɾ oʊpənz |1
+10_39.wav|ænd jɛh ɪt dʌz klɪɹli lʊk oʊld wɪððə klæsɪk foːɹ kəpæsᵻtɪv bʌʔn̩z æt ðə bɑːɾəm ændɹɔɪd tuː wʌn ænd ɪts ɐ maɪkɹoʊ juːɛsbiː poːɹt æt ðə tɑːp nɛkst tə ðə hɛdfoʊn dʒæk |1
+134_39.wav|ɪts stɛɹɪoʊ ɪts kʌlɚɹ ɪts ʃɑːɹp ɪts ɹiːəltaɪm ɪts ɹiəli ɡʊd |1
+74_39.wav|ænd paʊɚ juːzɚ fiːtʃɚz æz mʌtʃ æz wiː lʌv ðɛm doʊnt sɛl ɐ tʌn ʌv foʊnz |1
+13_39.wav|soʊ ɡælɐksi ɛs foːɹ ɡælɐksi ɛs foːɹ æktɪv |1
+103_39.wav|soʊ ɪɾ ɪnhɛɹɪts ðə seɪm eɪ sɪkstiːn baɪɑːnɪk tʃɪp fɹʌm læst jɪɹz pɹoʊ foʊn |1
+25_39.wav|naʊ jʊɹ pɹɑːbəbli θɪŋkɪŋ weɪt ðæts nɑːt iːvən kloʊs tə wʌnhʌndɹɪd aʊɚz |1
+77_39.wav|ɔːlsoʊ pɪŋ pɑːŋ wɪtʃ ðɪs hɐz ðɪs ɪɹi mʌltɪpleɪɚ moʊd ɑːnlaɪn wɛɹ sʌmwʌn ɛlsᵻz ævɐtɑːɹ dʒʌst ʃoʊz ʌp ɪn jʊɹ speɪs stændɪŋ tɛn fiːt ɐweɪ fɹʌm juː bʌt wɪð noʊ lɛɡz |1
+99_39.wav|ɔːl ʌv ðæt tə seɪ aɪ duː ɹiəli θɪŋk ðæt ðɪs nætʃɚɹəl taɪteɪniəm ɔːɹ ðə laɪt ɪz ɡoʊɪŋ təbi ðə bɛɾɚ kʌlɚ tə ɡɛt ɔnðə pɹoʊz ðɪs jɪɹ |1
+114_39.wav|duː juː wɔnt sʌm ɪntɹɛstɪŋ nuː juːniːk dɪzaɪnz ɔːɹ mətɪɹiəlz ɔːɹ tɛkstʃɚz ɔːɹ ɛkspɛɹɪmɛntəl fiːtʃɚz |1
+0_39.wav|waɪ æm aɪ seɪɪŋ ɪts nɑːt nɛsɪsɛɹᵻli ðə bɛst ɹɛkəmɛndeɪʃən |1
+90_39.wav|bʌt aɪ θɪŋk ɔːlsoʊ fɔːɹ miː ænd fɚɹə lɑːt ʌv ʌðɚ piːpəl ðə moːɹ ɪmpæktfəl θɪŋz ðæt juːl æktʃuːəli noʊɾɪs ɐbaʊt ðɪs nuː tʃɪp ɑːɹ ɪnðə dɛdᵻkeɪɾᵻd pɑːɹts ʌv ɪt ðæt ɑːɹ fɔːɹ spəsɪfɪk tæsks |1
+18_40.wav|bʌt æt ðɪs pɔɪnt ðɛɹɑːɹ soʊ mɛni fiːtʃɚz dʒæmd ɪn hɪɹ ðæt ɪts kaɪnd ʌv ʌndɪnaɪəbəl ðə juːtɪlᵻɾi |1
+127_40.wav|æz juːv pɹɑːbəbli siːn baɪ naʊ ðɪs foʊn dʌz hæv ɐ slaɪtli bɪɡɚ tɑːp ænd bɑːɾəm bɛzəl ðɐn sʌm ʌðɚ foʊldɪŋ foʊnz |1
+138_40.wav|ðeɪv dʌn ðɪs wɪð iːvən ɛɹ pɑːdz mæks ɐ lɪɾəl bɪt bʌt laɪk ðɛɹɑːɹ sɛvɹəl θɪŋz ðæt ðɪs hɛdsɛt dʌz ðæt noʊ ʌðɚ hɛdsɛt dʌz |1
+42_40.wav|soʊ aɪ θɪŋk naʊ juː ʃʊd siː maɪ aɪz |1
+55_40.wav|ɪt wʌzðə pɪksəl sɛvən eɪ |1
+72_40.wav|wɪð ðɪs skɹiːn ɔn juː lɪɾɚɹəli doʊnt siː ðə kɹiːs æɾ ɔːl |1
+4_40.wav|ɪf juː teɪk ɐweɪ ðə skɹiːn ɔnðə bæk ðə wʌnhʌndɹɪd sɪksti faɪv hɜːts dɪspleɪ ðə saɪd juːɛsbiːsiː poːɹt ðə ʃoʊldɚ tɹɪɡɚz ɑːnɪstli ɪts beɪsɪkli ðə seɪm foʊn |1
+131_40.wav|soʊ ðiːz sɔːɹt ʌv dɪzaɪnz hæv kaɪnd ʌv bɪkʌm ɐ steɪpəl ʌv diːbɹænd |1
+92_40.wav|soʊ ɐɡɛn ðɪs ɪz ɪts laɪk ɪts ɐ smɔːl smɔːl jɪɹ oʊvɚ jɪɹ ɪmpɹuːvmənt wɪð ðæt taɪni ɐmaʊnt ʌv |1
+12_40.wav|ðə lɑːk skɹiːn wɛnt fɹʌm swaɪp tʊ ʌnlɑːk tə dɹæɡɪŋ jʊɹ fɪŋɡɚ θɹuː ðɪs wɔːɾɚ |1
+38_40.wav|soʊ ðeɪl teɪk ɐdvæntɪdʒ ʌv ɪts vɛɹiəs stɹɛŋθs |1
+16_40.wav|ðɪs ɪz wʌn ʌv maɪ feɪvɚɹᵻt foʊnz |1
+46_40.wav|ðə foʊn æp ɡɛts eɪaɪ |1
+105_40.wav|juː kʊd ɔːlsoʊ duː flæʃlaɪt tɜːnɪŋ ɔn ɔːɹ oʊpənɪŋ ʌp vɔɪs mɛmoʊz |1
+10_40.wav|bʌt aɪ fiːl laɪk ɹaɪt ɔf ðə bæt juː kæn siː sæmsʌŋ dɪfɚɹɛnʃɪeɪɾɪŋ ɪtsɛlf hɪɹ |1
+134_40.wav|soʊ ðɛn ðɪ aɪz juː siː fɹʌmðɪ aʊtsaɪd ɑːɹ æktʃuːəli ɐn oʊlɛd dɪspleɪ ʃoʊɪŋ wʌt jʊɹ aɪz lʊk laɪk tə ðə kæmɹəz ɪnsaɪd ðə hɛdsɛt |1
+74_40.wav|wiː fɪɡɚd ðɪs aʊt mɛni taɪmz wɛn ɛldʒiː spɛnt jɪɹz ænd jɪɹz meɪkɪŋ sʌm ʌvðə moʊst mænjuːəli ɐdʒʌstəbəl kæmɹəz ɪnðə smɑːɹtfoʊn wɜːld |1
+104_40.wav|kaɪnd ʌv fɪɡɚd ðeɪ wʊd tɹaɪ tə duː |1
+13_40.wav|soʊ ðɪs ædᵻd aɪpiː sɪksti sɛvən sɜːɾɪfɪkeɪʃən ænd ɐ moːɹ ɹʌɡᵻd dɪzaɪn |1
+89_40.wav|juː kæn ɔːlsoʊ plʌɡ ɪn ʌðɚ θɪŋz plʌɡ ɪn ɐ kiːboːɹd ænd taɪp wɪð ɪt plʌɡ ɪn ɐ mɑːnɪɾɚ |1
+8_40.wav|aɪ noʊ fɪfti mɛɡəpɪksəlz ɪz ɐ bɪɡ nʌmbɚ bʌt hɪɹz wʌt aɪl seɪ æt ðɪs lɛvəl iːvən ɪn ɡɹeɪt laɪɾɪŋ ðə foʊɾoʊz ɑːɹnt |1
+77_40.wav|bʌt ðɛɹz juː noʊ ðə klæsɪks laɪk biːt seɪbɚ suːpɚhɑːt ænd ðɛn iːvən sʌm nuː wʌnz laɪk ɡɚɹɪlə tæɡ ɪz bloʊɪŋ ʌp |1
+0_40.wav|wɛl hɪstɔːɹɪkli mæk bʊk ɛɹ hɐzbɪn suːpɚɹ iːzi tə ɹɛkəmɛnd bʌt wɪð ðɪs ɛm θɹiː ðeɪ ɔːlsoʊ loʊɚd ðə pɹaɪs ʌv ɛm tuː baɪ ɐ hʌndɹɪd bʌks ænd dɪskəntɪnjuːd ðɪ ɛm wʌn |1
+90_40.wav|laɪk ðə nuː ɪmɪdʒ sɪɡnəl pɹɑːsɛsɚ lɛts juː teɪk ɹiəli ɹiəli fæst læɡfɹiː foʊɾoʊz kɑːnstəntli |1
+18_41.wav|ænd jɛh piːpəl ɑːɹ toʊɾəli wɪlɪŋ tə lɪv wɪð ɪɾ æz lɔŋ æz juː noʊ wʌt jʊɹ ɡɛɾɪŋ ɪntʊ wɪð ɐ sæmsʌŋ foʊn |1
+138_41.wav|ðɪ aɪ tɹækɪŋ ðə hænd tɹækɪŋ ðæts suːpɚ ɡʊd |1
+55_41.wav|soʊ ðɪswʌn wʌn ðə deɪtaɪm foʊɾoʊ æz juː pɹɑːbəbli ɹᵻmɛmbɚ |1
+125_41.wav|ðɛɹɑːɹ ɐ lɑːt moːɹ ɐfoːɹdəbəl soʊlɚ sɛɾʌps aʊt ðɛɹ ðæt ɑːɹ meɪkɪŋ ɐ miːnɪŋfəl dɪfɹəns fɚɹə lɑːt ʌv piːpəl ɪn ɐ lɑːt ʌv dɪfɹənt sɪtʃuːeɪʃənz ɔːl oʊvɚ ðə wɜːld |1
+86_41.wav|wɪl ðə pɪksəl iːvən biː ɚɹaʊnd ɪn sɛvən jɪɹz |1
+72_41.wav|ænd skɹiːn ɔf juː stɪl kaɪnd ʌv hæv tə lʊk fɔːɹ ɪt |1
+66_41.wav|soʊ ðeɪv ɐnaʊnst ɐ nuː æp ðæt ɪz ɡoʊɪŋ tə kʌm aʊt ænd biː ɛkskluːsɪv tə ðə nʌθɪŋ foʊn tuː tə stɑːɹt ænd ɪts kɔːld ðə nʌθɪŋ tʃæts æp |1
+4_41.wav|soʊ ðɪs zɛnfoʊn dʒʌst fiːlz laɪk ɪts blɛndɪŋ ɪntʊ ðə siː ʌv ʌðɚ |1
+12_41.wav|laɪk ɪt wʌzɐ pɹɪɾi stɹɔŋ θiːm fɔːɹ ðɛm |1
+16_41.wav|ðeɪ ædᵻd ɐ lɑːt ʌv θɪŋz tə ðɪs foʊn |1
+43_41.wav|naʊ weɪt soʊ naʊ bɹaɪən duː juː siː ðɪs |1
+46_41.wav|soʊ ðɪs stʌf maɪt stɑːɹt tə saʊnd fəmɪlɪɹ bʌt lɛts seɪ jʊɹ ɡoʊɪŋ tə hæv ɐ foʊn kɔːl wɪð |1
+105_41.wav|ɔːɹ ɪt kæn tɑːɡəl ðə mæɡnɪfaɪɚ ɔːɹ ðə læst ɑːpʃən æktʃuːəli ɪz juː kæn hæv ɪt tɹɪɡɚɹ ɐ siəɹi ʃɔːɹtkʌt wɪtʃ æz juː noʊ kæn tɛknɪkli duː ɔːlmoʊst ɛnɪθɪŋ ɪŋkluːdɪŋ beɪsɪkli lɑːntʃɪŋ ɛni æp ɔn jʊɹ foʊn |1
+10_41.wav|fɜːst ʌv ɔːl ðɪs ɪz ɐ ɹiːzənəbəl dɪspleɪ |1
+134_41.wav|soʊ ɪt ʃoʊz jʊɹ aɪz laɪk ðɪs wɛnɛvɚ jʊɹ juːzɪŋ ɛni sɔːɹt ʌv pæsθɹuː |1
+13_41.wav|ɪt wʌzɐ tiːɛftiː ɛlsiːdiː dɪspleɪ ɪnstɛd ʌv æmoʊld |1
+30_41.wav|ænd ðɛn ðɛɹz iːvən dʒʌst ɛkstɹə lɪɾəl taɪni θɪŋz ɔn tɑːp ʌv |1
+103_41.wav|ænd juː noʊ ɪts ɔːlsoʊ ɔnðə pɹoʊ foʊn bʌt aɪ stɪl θɪŋk ɪts pɹɪɾi sɑːlɪd ɪz ðə kæmɹə hɐz ðɪs nuː nɛkst dʒɛnɚɹeɪʃən poːɹtɹɪt moʊd |1
+25_41.wav|bʌt wʌn plʌs toʊld miː ðæt ɪf juː tɜːn ðɪ ɔːlweɪz ɔn dɪspleɪ ɔf ðæts ɡʊd fɔːɹ tuː moːɹ deɪz ʌv bæɾɚɹi laɪf |1
+77_41.wav|ɔːl ðɪs stʌf ɪz ðə meɪn ɹiːzən waɪ tədeɪ juːd baɪ sʌmθɪŋ laɪk ðɪs tə spɛnd laɪk hæf ɐn aʊɚɹ ɪnðə θɪŋ |1
+114_41.wav|ænd ɪf juː θɪŋk ɐbaʊt ɪt sɪɹiəsli θɪŋk ɐbaʊt ðɪs moʊst əv ðɪ ɪntɹɛstɪŋ ɛksaɪtmənt ɚɹaʊnd ɛvɹi nuː aɪ foʊn |1
+0_41.wav|soʊ naʊ ðə laɪnʌp ɪz ɛm θɹiː mæk bʊk ɛɹ stɑːɹts æt dɑːlɚ wʌn θaʊzənd naɪnti naɪn |1
+90_41.wav|ðə nuː nʊɹɹəl ɛndʒɪn ɹɛkəɡnaɪzᵻz poːɹtɹɪt moʊd sʌbdʒɛkts laɪk piːpəlz feɪsᵻz |1
+18_42.wav|fʌn fækt ðɪs ɪz ɔːlsoʊ ðə jɪɹ ðæt sæmsʌŋ ʌnveɪld ðə ɡælɐksi hoʊm ɐ smɔːl wɛbɚ ɡɹɪl ʃeɪpt spiːkɚ |1
+138_42.wav|iːvən ɪf ɐn ɪkwɪvələnt hɛdsɛt keɪm ɐlɔŋ tədeɪ ænd dɪd ɔːl ʌvðə seɪm stʌf ðæt ðɪs dʌz hɑːɹdwɛɹ ænd sɔftwɛɹ waɪz ɪt stɪl wʊdəntəv feɪs taɪm |1
+72_42.wav|ænd ðɛn jɛh juː hɪt ðɪ æŋɡəl wɛɹ ðə laɪt ɹᵻflɛkts ɔf ʌvðə mɪdəl ʌvðə foʊn ænd ðɛn juː kæn siː ɪt |1
+66_42.wav|ænd ðɛɹ ɡoʊl wɪð ðɪs ɪz tə lɪɾɚɹəli ɔfɚɹ aɪ mɛsɪdʒ ɔːlsoʊ ɔn ðɛɹ foʊn |1
+105_42.wav|aɪ θɪŋk ðɛɹ meɪ biː ɐ bɪt əvə dᵻleɪ |1
+10_42.wav|ðɪs ɪz ɐ foːɹ ɪntʃ skɹiːn ænd ɪts ɐ sæmsʌŋ meɪd æmoʊld dɪspleɪ |1
+74_42.wav|ænd wiː stɪl hæv soʊni huː kænt stɑːp meɪkɪŋ pɹəfɛʃənəl |1
+3_42.wav|soʊ ɪn tuː θaʊzənd twɛnti fɚðə fɜːst taɪm æpəl dᵻsaɪdᵻd tə ɹᵻliːs ɐ nuː laɪnʌp ʌv foːɹ nuː aɪ foʊnz |1
+13_42.wav|ænd ɪt tɹeɪdᵻd sʌm ʌðɚ smɔːl daʊŋɡɹeɪdz fɔːɹ laɪk fɪzɪkəl bʌʔn̩z ænd ɐ slaɪtli θɪkɚ foʊn wɪð sʌm flæps tə kʌvɚ ðə poːɹts |1
+89_42.wav|ænd ðə pɹoʊ foʊn naʊ səpoːɹts juːɛsbiː θɹiː ziəɹoʊ deɪɾə tɹænsfɜː spiːdz |1
+103_42.wav|bʌt beɪsɪkli ɪɾ ɔːɾəmæɾɪkli dɪtɛkts wɛn ðɛɹz ɐ sʌbdʒɛkt ɪn ɐ foʊɾoʊ ænd kæptʃɚz ɔːl ʌvðə dɛpθ ɪnfɚmeɪʃən niːdᵻd təbi eɪbəl tə tɜːn ɪɾ ɪntʊ ɐ poːɹtɹɪt moʊd foʊɾoʊ leɪɾɚ |1
+77_42.wav|bʌt ɐɡɛn ðə tɛk ɪz ʃɹɪŋkɪŋ daʊn moːɹ ænd moːɹ ænd moːɹ ænd |1
+0_42.wav|ðɛn ɛm tuː mæk bʊk ɛɹ stɑːɹts æt dɑːlɚ naɪnhʌndɹɪd naɪnti naɪn ænd ðɛn ɛm wʌn ɪts |1
+138_43.wav|ɪt stɪl wʊdəntəv laɪk lʊkɪŋ æɾə mæk ænd ðɛn ðɪ iːkoʊsɪstəm ɐlaʊɪŋ ðə mækz dɪspleɪ tə pɑːp ʌp |1
+86_43.wav|ðə nɛksəs pɹoʊɡɹæm oʊnli læstᵻd faɪv jɪɹz bᵻfoːɹ ðeɪ kɪld ðæt ænd ðɛn stɑːɹɾᵻd pɪksəl stʌf |1
+72_43.wav|bʌt ðɪs ɪz wʌn ʌv ðoʊz foʊnz ðæt lʊks ɹiəli ɡʊd fɹʌm ɔːlmoʊst ɛvɹi æŋɡəl juː wʊd æktʃuːəli juːs ɪt |1
+16_43.wav|θɹoʊn ɐn æbsəluːt mɛtɹɪk tʌn ʌv stʌf æt ðə wɔːl tə siː wʌt stɪks |1
+3_43.wav|ɪt wʌz aɪ foʊn twɛlv aɪ foʊn twɛlv pɹoʊ ðə twɛlv pɹoʊ mæks ænd ðə twɛlv mɪni |1
+13_43.wav|aɪl tɛl juː wʌt wʌz nɑːt ɹiəli ɐ meɪdʒɚ hɪt ðoʊ |1
+89_43.wav|soʊ juː kæn ɡɛt ðæt pɹoʊ ɹɛz fʊɾɪdʒ ɔf ðə foʊn noʊɾɪsəbli fæstɚ |1
+103_43.wav|soʊ juː doʊnt hæv tə ɹᵻmɛmbɚ tə swɪtʃ ɪt tə poːɹtɹɪt moʊd nɛsɪsɛɹᵻli ɛvɹi taɪm |1
+25_43.wav|aɪ tɜːnd ɪɾ ɔn fɔːɹ ðɪs tɛst bʌt ðæt wʊd ɡɛt juː wɛl oʊvɚ ðə wʌnhʌndɹɪd aʊɚ mɑːɹk |1
+138_44.wav|soʊ ðɪs ɪz kaɪnd ʌv sʌmθɪŋ ðæt oʊnli æpəl kʊd pʊl ɔf |1
+42_44.wav|juː kæn bɛɹli siː maɪ aɪz wɛn aɪm wɛɹɪŋ ðə hɛdsɛt |1
+86_44.wav|ænd wiː ɑːɹ ɔn jɪɹ eɪt ʌvðə pɪksəl naʊ |1
+72_44.wav|ænd ðɛn ɪɾ ɔːlsoʊ hɐz wʌn ʌv ðoʊz hɪndʒᵻz ðæt steɪz æt wʌtɛvɚ |1
+16_44.wav|naʊ aɪ dɛfɪnətli dɪdnt lʌv ɔːl ʌvðə stʌf ðæt ðeɪ tɹaɪd bʌt aɪ lʌv ðæt ðeɪ wɜː tɹaɪɪŋ stʌf ænd ðeɪ tɹaɪd soʊ mɛni θɪŋz ðæt ðiːz foʊnz dʒʌst fiːl ɐ wɜːld ɐpɑːɹt |1
+3_44.wav|ʌv koːɹs ðə twɛlv ænd ðə twɛlv pɹoʊ ɑːɹ ðə seɪm saɪz ɹaɪt ɪnðə mɪdəl ðɪs naɪs lɪɾəl swiːt spɑːt ʌvðə laɪnʌp ænd ðə twɛlv pɹoʊ mæks dʒʌst biːɪŋ ðɪs æbsəluːt mækst aʊt bɪɡɪst skɹiːn bɪɡɪst pɹaɪs |1
+13_44.wav|ðɪs wʌz wʌn ʌvðə fɜːst meɪdʒɚɹ ɪnsɪdənts əvə sæmsʌŋ foʊn bæɾɚɹi swɛlɪŋ kætʃɪŋ faɪɚ ænd bɜːnɪŋ ʌp ɔn sʌmwʌn |1
+25_44.wav|təbi fɛɹ ðæts ɔːlsoʊ pɹɑːbəbli tɹuː ɐbaʊt ðɪ æpəl wɑːtʃ ʌltɹə |1
+138_45.wav|soʊ bɑːɾəm laɪn juː noʊ aɪ ɡɑːt tə tɹaɪ ɪt |1
+42_45.wav|naʊ aɪv tɹaɪd ɐ kʌpəl ʌðɚ skænz sʌbsᵻkwəntli |1
+3_45.wav|bʌt ðɛn ðə tʃiːpɪst moʊst pɑːkɪɾəbəl nuː aɪ foʊn ɪnðə laɪnʌp ɪz ðɪs |1
+13_45.wav|naʊ ɪt dɪdnt ɡoʊ hæpən tʊ ɐ tʌn ʌv piːpəl ɪt wʌzn̩t ɪnʌf tə bɪkʌm ɐ meɪdʒɚ tɹɛnd bʌt ɪts sʌmθɪŋ tə sɔːɹt ʌv ɹᵻmɛmbɚ fɚðə fjuːtʃɚ fɔːɹʃædoʊɪŋ |1
+25_45.wav|naʊ wʌn diːteɪl tə kənsɪdɚ ðæt aɪ θɪŋk æktʃuːəli mæɾɚd fɔːɹ ðɪs pɚtɪkjʊlɚ tɛst aɪv bɪn wɛɹɪŋ hʊdiz ɐ lɑːt bɪkʌz ɪts ðæt taɪp ʌv wɛðɚ |1
+138_46.wav|aɪ θɔːt ɪt wʌz ɛkstɹiːmli ɪmpɹɛsɪv bʌt æt ðɪ ɛnd ʌvðə deɪ ðɪs ɪz nɑːɾə pɹɑːdʌkt fɚðə mæsᵻz |1
+42_46.wav|soʊ aɪv tɹaɪd dɪfɹənt laɪɾɪŋ kəndɪʃənz |1
+12_46.wav|ænd ðə kɑːmboʊ ʌv laɪk biːɪŋ suːpɚ slɪm ænd fæst ænd hævɪŋ ɐ hjuːdʒ oʊlɛd ænd ɛs vɔɪs hædɪt stɑːɹɾɪŋ tə ɡɛt taʊɾᵻd laɪk ðɪ aɪ foʊn kɪlɚ |1
+13_46.wav|naʊ baɪ ðə taɪm wiː ɡɛt tə ɡælɐksi ɛs faɪv sæmsʌŋ ɪz stɑːɹɾɪŋ tə hɪt ðɛɹ |1
+25_46.wav|ænd soʊ iːvən wɪððə sliːvz ɔn ðɪs ʃɛvɹəleɪ |1
+42_47.wav|aɪv tɹaɪd dɪfɹənt bækɡɹaʊndz sɪmpəl bækɡɹaʊndz tɹaɪd dɪfɹənt ʃɜːts ænd θɪŋz laɪk ðæt |1
+86_47.wav|bʌt ðɛn æktʃuːəli ðɪs ɔːlsoʊ taɪz ɪntʊ ɐnʌðɚ bɪt əvə mɪni tɹɛnd wiːv əbzɜːvd leɪtli ðæt aɪ wɔntᵻd tə tɔːk ɐbaʊt wɪtʃ ɪz nuː ɐnaʊnsmənts fɹʌm tɛk kʌmpəniz ðæt hæv fiːtʃɚz |1
+12_47.wav|bʌt aɪ θɪŋk moːɹ ɪntɹɪstɪŋli ðeɪ θɔːt ðɪs foʊn wʌz bɪɡ ɪnʌf tə wɔːɹənt ɐn ɛs θɹiː mɪni |1
+42_48.wav|ɪt dʌzənt ɹiəli ɛvɚɹ ɐpɪɹ ɛni bɹaɪɾɚ |1
+66_48.wav|ðɪs ɪz ɐn æp ðæts koʊdɪvɛləpt wɪð ɐ kʌmpəni kɔːld sʌnbɜːd huː hɐzbɪn duːɪŋ ðɪs fɚɹə lɪɾəl waɪl |1
+12_48.wav|ðɪs ɪz ɐ foːɹ eɪt ɪntʃ skɹiːn laɪk aɪ sɛd kaɪnd ʌv dʒaɪənt |1
+138_49.wav|ɪt hɐz ðə wɜːd pɹoʊ ɪnðə neɪm tuː |1
+12_49.wav|ænd soʊ ðeɪ keɪm aʊt wɪð ɐ wʌn wɪð ɐ foːɹ ɪntʃ dɪspleɪ ɡælɐksi ɛs θɹiː mɪni |1
+138_50.wav|bʌt ðɪs ðɪs fiːlz laɪk ðə sɪɹiz ziəɹoʊ laɪk ðɪ æpəl wɑːtʃ |1
+138_51.wav|ɹᵻmɛmbɚ wɛn ðɪ æpəl wɑːtʃ fɜːst keɪm aʊt ðə sɪɹiz ziəɹoʊ |1
